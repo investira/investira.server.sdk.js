@@ -31,7 +31,7 @@
     },
     "scripts": {
         "start": "nodemon ./lib/tests",
-        "test": "nodemon --inspect-brk ./lib/tests/index"
+        "test": "nodemon --inspect-brk ./lib/tests/test_tokens"
     },
     "publishConfig": {
         "registry": "http://my-internal-registry.local"
