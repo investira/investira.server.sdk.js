@@ -2,7 +2,6 @@ module.exports.passwords = require('./lib/utils/passwords');
 module.exports.sqls = require('./lib/utils/sqls');
 module.exports.tokens = require('./lib/utils/tokens');
 module.exports.httpResponses = require('./lib/utils/httpResponses');
-
 module.exports.dao = require('./lib/hofs/dao');
 module.exports.crud = require('./lib/hofs/crud');
 
@@ -19,6 +18,5 @@ module.exports.requestContextMiddleware = require('./lib/middlewares/requestCont
 
 module.exports.messages = require('./lib/messages');
 
-//GLobals-------------------------
-//Log
-gLog = require('./lib/log');
+//@ts-ignore
+global.gLog = require('./lib/log');
