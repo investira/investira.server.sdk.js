@@ -2,12 +2,14 @@
     "compilerOptions": {
         "target": "es6",
         "checkJs": true,
+        "strict": true,
         "module": "commonjs",
         "allowSyntheticDefaultImports": true,
-        "baseUrl": "./",
-        "paths": {
-            "src/*": ["./lib/*"]
-        }
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true
     },
+    "include": ["./lib/**/*"],
     "exclude": ["node_modules"]
 }
