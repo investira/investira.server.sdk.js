@@ -4,6 +4,7 @@
     "author": "Investira",
     "description": "Investira server SDK",
     "main": "index.js",
+    "types": "./lib/globals.d.ts",
     "files": [
         "LICENSE",
         "README.md",
@@ -31,7 +32,7 @@
     },
     "scripts": {
         "start": "nodemon ./lib/tests",
-        "test": "nodemon --inspect-brk ./lib/tests/test_tokens"
+        "test": "nodemon --inspect-brk ./lib/tests/test_log"
     },
     "publishConfig": {
         "registry": "http://my-internal-registry.local"
@@ -60,7 +61,7 @@
         "evil": true,
         "globals": {
             "location": true,
-            "printStackTrace": false
+            "printStackTrace": true
         },
         "browser": true,
         "node": true
