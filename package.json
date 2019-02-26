@@ -41,9 +41,9 @@
         "@mysql/xdevapi": "^8.0.15",
         "@types/node": "^11.9.4",
         "bcrypt": "^3.0.4",
+        "investira.sdk": "file:../investira.sdk",
         "on-finished": "^2.3.0",
-        "winston": "^3.2.1",
-        "investira.sdk": "file:../investira.sdk"
+        "winston": "^3.2.1"
     },
     "jshintConfig": {
         "curly": true,
@@ -73,5 +73,5 @@
         ],
         "delay": "0"
     },
-    "license": "GNU GENERAL PUBLIC LICENSE 3.0"
+    "license": "GPL-3.0-only"
 }
