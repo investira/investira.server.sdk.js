@@ -2,7 +2,6 @@
     "compilerOptions": {
         "target": "es6",
         "checkJs": true,
-        "strict": true,
         "module": "commonjs",
         "allowSyntheticDefaultImports": true,
         "noUnusedLocals": true,
