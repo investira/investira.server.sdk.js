@@ -3,7 +3,9 @@ module.exports.sqls = require('./lib/utils/sqls');
 module.exports.tokens = require('./lib/utils/tokens');
 module.exports.httpResponses = require('./lib/utils/httpResponses');
 module.exports.dao = require('./lib/hofs/dao');
+module.exports.DAO_ACTION_TYPE = require('./lib/hofs/dao').DAO_ACTION_TYPE;
 module.exports.crud = require('./lib/hofs/crud');
+module.exports.CRUD_ACTION_TYPE = require('./lib/hofs/crud').CRUD_ACTION_TYPE;
 
 module.exports.mySqlServer = require('./lib/dbs/mySqlServer');
 
