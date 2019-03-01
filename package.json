@@ -34,9 +34,6 @@
         "start": "nodemon ./lib/tests",
         "test": "nodemon --inspect-brk ./lib/tests/test_log"
     },
-    "publishConfig": {
-        "registry": "http://my-internal-registry.local"
-    },
     "dependencies": {
         "@mysql/xdevapi": "^8.0.15",
         "@types/node": "^11.9.4",
