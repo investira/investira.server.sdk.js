@@ -1,4 +1,5 @@
 ./tests
+./logs
 .prettierrc
 .vscode
 .gitignore
