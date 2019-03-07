@@ -22,6 +22,9 @@ pids
 # npm
 node_modules/
 
+
 # App data
 /data/
 
+#build
+build/
