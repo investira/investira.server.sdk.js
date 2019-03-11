@@ -11,7 +11,6 @@ module.exports.mySqlServer = require('./lib/dbs/mySqlServer');
 
 module.exports.httpCors = require('./lib/middlewares/httpCors');
 module.exports.hostsCheckPoint = require('./lib/middlewares/hostsCheckPoint');
-module.exports.responseErrorHandler = require('./lib/middlewares/responseErrorHandler');
 module.exports.oauth2Token = require('./lib/middlewares/oauth2Token');
 
 module.exports.requestContext = require('./lib/middlewares/requestContext').requestContext;
