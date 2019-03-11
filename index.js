@@ -14,7 +14,7 @@ module.exports.hostsCheckPoint = require('./lib/middlewares/hostsCheckPoint');
 module.exports.oauth2Token = require('./lib/middlewares/oauth2Token');
 
 module.exports.requestContext = require('./lib/middlewares/requestContext').requestContext;
-module.exports.requestContextEvents = require('./lib/middlewares/requestContext').requestContextEvents;
+
 module.exports.requestContextMiddleware = require('./lib/middlewares/requestContext').requestContextMiddleware;
 
 module.exports.messages = require('./lib/messages');
