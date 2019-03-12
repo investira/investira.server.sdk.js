@@ -1,7 +1,6 @@
 module.exports.passwords = require('./lib/utils/passwords');
 module.exports.sqls = require('./lib/utils/sqls');
 module.exports.tokens = require('./lib/utils/tokens');
-module.exports.httpResponses = require('./lib/utils/httpResponses');
 module.exports.dao = require('./lib/hofs/dao');
 module.exports.DAO_ACTION_TYPE = require('./lib/hofs/dao').DAO_ACTION_TYPE;
 module.exports.crud = require('./lib/hofs/crud');
@@ -12,6 +11,7 @@ module.exports.mySqlServer = require('./lib/dbs/mySqlServer');
 module.exports.httpCors = require('./lib/middlewares/httpCors');
 module.exports.hostsCheckPoint = require('./lib/middlewares/hostsCheckPoint');
 module.exports.oauth2Token = require('./lib/middlewares/oauth2Token');
+module.exports.endpointResponse = require('./lib/middlewares/endpointResponse');
 
 module.exports.requestContext = require('./lib/middlewares/requestContext').requestContext;
 
