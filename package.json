@@ -74,5 +74,11 @@
         ],
         "delay": "0"
     },
-    "license": "GPL-3.0-only"
+    "license": "GPL-3.0-only",
+    "bugs": {
+        "url": "https://github.com/investira/investira.server.sdk/issues"
+    },
+    "directories": {
+        "lib": "lib"
+    }
 }
