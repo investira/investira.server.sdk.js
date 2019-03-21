@@ -44,21 +44,25 @@
     },
     "jshintConfig": {
         "curly": true,
-        "eqeqeq": true,
-        "immed": true,
+        "eqeqeq": false,
         "latedef": false,
-        "newcap": false,
-        "noarg": true,
-        "sub": true,
-        "undef": true,
+        "undef": false,
+        "varstmt": true,
+        "funcscope": true,
+        "supernew": true,
         "boss": true,
         "eqnull": true,
         "strict": false,
         "scripturl": true,
-        "evil": true,
+        "maxdepth": 3,
+        "maxparams": 5,
+        "esversion": 9,
         "globals": {
+            "esversion": 9,
             "location": true,
-            "printStackTrace": true
+            "printStackTrace": false,
+            "gLog": true,
+            "gRC": true
         },
         "browser": true,
         "node": true
