@@ -54,7 +54,7 @@
         "eqnull": true,
         "strict": false,
         "scripturl": true,
-        "maxdepth": 3,
+        "maxdepth": 4,
         "maxparams": 5,
         "esversion": 9,
         "globals": {
