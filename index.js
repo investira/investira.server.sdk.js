@@ -12,6 +12,7 @@ module.exports.httpCors = require('./lib/middlewares/httpCors');
 module.exports.hostsCheckPoint = require('./lib/middlewares/hostsCheckPoint');
 module.exports.oauth2Token = require('./lib/middlewares/oauth2Token');
 module.exports.endpointResponse = require('./lib/middlewares/endpointResponse');
+module.exports.authorization = require('./lib/middlewares/authorization');
 
 module.exports.requestContext = require('./lib/middlewares/requestContext').requestContext;
 
