@@ -1,11 +1,14 @@
 module.exports.passwords = require('./lib/utils/passwords');
 module.exports.sqls = require('./lib/utils/sqls');
 module.exports.tokens = require('./lib/utils/tokens');
-module.exports.dao = require('./lib/hofs/dao');
-module.exports.DAO_ACTION_TYPE = require('./lib/hofs/dao').DAO_ACTION_TYPE;
-module.exports.crud = require('./lib/hofs/crud');
-module.exports.CRUD_ACTION_TYPE = require('./lib/hofs/crud').CRUD_ACTION_TYPE;
 
+module.exports.htmlRender = require('./lib/helpers/htmlRender');
+module.exports.emailSender = require('./lib/helpers/emailSender');
+
+module.exports.dao = require('./lib/dbs/dao');
+module.exports.DAO_ACTION_TYPE = require('./lib/dbs/dao').DAO_ACTION_TYPE;
+module.exports.crud = require('./lib/dbs/crud');
+module.exports.CRUD_ACTION_TYPE = require('./lib/dbs/crud').CRUD_ACTION_TYPE;
 module.exports.mySqlServer = require('./lib/dbs/mySqlServer');
 
 module.exports.httpCors = require('./lib/middlewares/httpCors');

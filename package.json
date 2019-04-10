@@ -32,14 +32,18 @@
     },
     "scripts": {
         "start": "nodemon ./lib/tests",
-        "test": "nodemon --inspect-brk ./lib/tests/test_tokens"
+        "test_token": "nodemon --inspect-brk ./lib/tests/test_tokens",
+        "test_email": "nodemon --inspect-brk ./lib/tests/test_emails",
+        "test_render": "nodemon --inspect-brk ./lib/tests/test_render"
     },
     "dependencies": {
         "@mysql/xdevapi": "^8.0.15",
         "@types/node": "^11.9.4",
         "bcrypt": "^3.0.4",
         "investira.sdk": "file:../investira.sdk",
+        "nodemailer": "^6.1.0",
         "on-finished": "^2.3.0",
+        "pug": "^2.0.3",
         "winston": "^3.2.1"
     },
     "jshintConfig": {
