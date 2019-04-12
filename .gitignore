@@ -23,8 +23,10 @@ pids
 node_modules/
 
 
+
 # App data
 /data/
 
 #build
 build/
+lib/tests/
