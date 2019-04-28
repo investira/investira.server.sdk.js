@@ -17,9 +17,7 @@ module.exports.oauth2Token = require('./lib/middlewares/oauth2Token');
 module.exports.endpointResponse = require('./lib/middlewares/endpointResponse');
 module.exports.authorization = require('./lib/middlewares/authorization');
 
-module.exports.requestContext = require('./lib/middlewares/requestContext').requestContext;
-
-module.exports.requestContextMiddleware = require('./lib/middlewares/requestContext').requestContextMiddleware;
+module.exports.requestContext = require('./lib/middlewares/requestContext');
 
 module.exports.log = require('./lib/log');
 
