@@ -28,5 +28,4 @@ node_modules/
 /data/
 
 #build
-build/
-lib/tests/
+lib/tests
