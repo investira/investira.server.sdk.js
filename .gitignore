@@ -2,6 +2,7 @@
 .DS_Store
 ._*
 *~
+.vscode
 
 # Other CSM
 .hg
@@ -28,4 +29,4 @@ node_modules/
 /data/
 
 #build
-lib/tests
+lib/tests/

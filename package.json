@@ -5,13 +5,6 @@
     "description": "Investira server SDK",
     "main": "index.js",
     "types": "./lib/globals.d.ts",
-    "files": [
-        "LICENSE",
-        "README.md",
-        "build-info.json",
-        "index.js",
-        "lib/"
-    ],
     "type": "version",
     "registry": true,
     "raw": "investira.server.sdk@1.0.3",
