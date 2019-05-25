@@ -25,7 +25,7 @@
     },
     "scripts": {
         "start": "nodemon ./lib/tests",
-        "test_token": "nodemon --inspect-brk ./lib/tests/test_tokens",
+        "test": "nodemon --inspect-brk ./lib/tests/index",
         "test_email": "nodemon --inspect-brk ./lib/tests/test_emails",
         "test_render": "nodemon --inspect-brk ./lib/tests/test_render"
     },
@@ -33,7 +33,7 @@
         "@mysql/xdevapi": "8.0.16",
         "@types/node": "11.9.4",
         "bcrypt": "3.0.6",
-        "investira.sdk": "^1.0.3",
+        "investira.sdk": "^1.0.4",
         "nodemailer": "6.1.1",
         "on-finished": "2.3.0",
         "pug": "2.0.3",
