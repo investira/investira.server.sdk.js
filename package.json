@@ -13,6 +13,10 @@
     "saveSpec": null,
     "fetchSpec": "1.0.6",
     "homepage": "https://investira.com.br/",
+    "engines": {
+        "node": ">=11.11.0",
+        "npm": ">=6.0.0"
+    },
     "keywords": [
         "investira.server.sdk"
     ],
