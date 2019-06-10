@@ -1,6 +1,7 @@
 module.exports.passwords = require('./lib/utils/passwords');
 module.exports.sqls = require('./lib/utils/sqls');
 module.exports.tokens = require('./lib/utils/tokens');
+module.exports.files = require('./lib/utils/files');
 
 module.exports.htmlRender = require('./lib/helpers/htmlRender');
 module.exports.emailSender = require('./lib/helpers/emailSender');
