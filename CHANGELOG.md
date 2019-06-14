@@ -4,3 +4,5 @@
 -   [mySqlServer] Exclusão de log no commit e no rollback
 
 # 1.0.7
+
+-   [files] Nova função download
