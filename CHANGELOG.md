@@ -7,3 +7,5 @@
 
 -   [files] Nova função download
 -   [sqls] Novo operador 'in'
+
+# 1.0.8
