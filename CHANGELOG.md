@@ -6,3 +6,4 @@
 # 1.0.7
 
 -   [files] Nova função download
+-   [sqls] Novo operador 'in'
