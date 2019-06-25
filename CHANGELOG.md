@@ -11,3 +11,4 @@
 # 1.0.8
 
 -   [sqls] e [daos] refactor do limit e inclusão de groupBy
+-   [sqls] correção do operador 'in'
