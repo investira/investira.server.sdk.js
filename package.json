@@ -32,9 +32,7 @@
     },
     "scripts": {
         "start": "nodemon ./lib/tests",
-        "test": "nodemon --inspect-brk ./lib/tests/index",
-        "test_email": "nodemon --inspect-brk ./lib/tests/test_emails",
-        "test_render": "nodemon --inspect-brk ./lib/tests/test_render"
+        "test": "nodemon --inspect-brk ./_tests/test"
     },
     "dependencies": {
         "@mysql/xdevapi": "8.0.16",

@@ -9,3 +9,5 @@
 -   [sqls] Novo operador 'in'
 
 # 1.0.8
+
+-   [sqls] e [daos] refactor do limit e inclusão de groupBy
