@@ -20,3 +20,5 @@
 # 1.0.10
 
 -   [sqls] Implementação para pertimir nomes reservados como nome de colunas no banco
+
+# 1.0.11
