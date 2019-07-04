@@ -22,3 +22,5 @@
 -   [sqls] Implementação para pertimir nomes reservados como nome de colunas no banco
 
 # 1.0.11
+
+-   [authorization] Correção: Returns nos Rejects
