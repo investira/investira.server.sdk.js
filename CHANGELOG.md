@@ -14,3 +14,5 @@
 -   [sqls] correção do operador 'in'
 
 # 1.0.9
+
+-   [sqls] correção para value da columa com type JSON
