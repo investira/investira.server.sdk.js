@@ -16,3 +16,7 @@
 # 1.0.9
 
 -   [sqls] correção para value da columa com type JSON
+
+# 1.0.10
+
+-   [sqls] Implementação para pertimir nomes reservados como nome de colunas no banco
