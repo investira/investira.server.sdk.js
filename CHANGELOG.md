@@ -24,3 +24,6 @@
 # 1.0.11
 
 -   [authorization] Correção: Returns nos Rejects
+-   [sqls] Operador 'in': controlado também pelo bind para evitar sql inject
+-   [sqls] Operador 'in': valor poder receber um array
+-   [sqls] Novo operador 'like'
