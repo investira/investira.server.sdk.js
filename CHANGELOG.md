@@ -28,3 +28,5 @@
 -   [sqls] Operador 'in': valor poder receber um array
 -   [sqls] Novo operador 'like'
 -   [endpointResponse] Criação automática de atributo req.clauses contendo {sort,limit:{page,offset,size}} a partir dos parametros da query
+
+# 1.0.12
