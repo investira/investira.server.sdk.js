@@ -1,11 +1,11 @@
 # 1.0.6
 
--   [files] Novo módulo files, com funções projectPath e sep
+-   [files] Novo módulo files, com funções 'projectPath' e 'sep'
 -   [mySqlServer] Exclusão de log no commit e no rollback
 
 # 1.0.7
 
--   [files] Nova função download
+-   [files] Nova função 'download'
 -   [sqls] Novo operador 'in'
 
 # 1.0.8
@@ -30,3 +30,6 @@
 -   [endpointResponse] Criação automática de atributo req.clauses contendo {sort,limit:{page,offset,size}} a partir dos parametros da query
 
 # 1.0.12
+
+-   [files] Nova função 'read' para ler arquivos
+-   [files] Nova função 'unzip' para descompactar arquivos
