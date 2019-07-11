@@ -41,7 +41,7 @@
         "investira.sdk": "^1.0.11",
         "nodemailer": "6.1.1",
         "on-finished": "2.3.0",
-        "pug": "2.0.3",
+        "pug": "2.0.4",
         "winston": "3.2.1",
         "yauzl": "^2.10.0"
     },
