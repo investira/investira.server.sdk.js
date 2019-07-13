@@ -35,3 +35,5 @@
 -   [files] Nova função 'unzip' para descompactar arquivos
 -   [files] Nova função 'mkdir' para criar pasta se não existir
 -   [files] Nova função 'rename' para renomear arquivo e pastas
+
+# 1.0.13
