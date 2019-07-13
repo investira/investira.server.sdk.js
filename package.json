@@ -18,7 +18,8 @@
         "npm": ">=6.0.0"
     },
     "keywords": [
-        "investira.server.sdk"
+        "investira.server.sdk",
+        "investira"
     ],
     "_requiredBy": [
         "/"
@@ -76,6 +77,15 @@
             "node_modules/**/node_modules"
         ],
         "delay": "0"
+    },
+    "prettier": {
+        "singleQuote": true,
+        "jsxBracketSameLine": true,
+        "bracketSpacing": true,
+        "trailingComma": "none",
+        "tabWidth": 4,
+        "arrowParens": "avoid",
+        "printWidth": 120
     },
     "license": "GPL-3.0-only",
     "directories": {
