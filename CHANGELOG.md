@@ -37,3 +37,6 @@
 -   [files] Nova função 'rename' para renomear arquivo e pastas
 
 # 1.0.13
+
+-   [sqls] Controle de Datamodel com atributos sendo objetos dentro de objetos
+-   [files] 'read' controlando quebra por CRLF
