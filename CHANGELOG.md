@@ -39,4 +39,4 @@
 # 1.0.13
 
 -   [sqls] Controle de Datamodel com atributos sendo objetos dentro de objetos
--   [files] 'read' controlando quebra por CRLF
+-   [files] 'read' controlando quebra de linha por parametro
