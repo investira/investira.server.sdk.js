@@ -36,7 +36,8 @@
 -   [files] Nova função 'mkdir' para criar pasta se não existir
 -   [files] Nova função 'rename' para renomear arquivo e pastas
 
-# 1.0.13
+# 1.1.0
 
 -   [sqls] Controle de Datamodel com atributos sendo objetos dentro de objetos
 -   [files] 'read' controlando quebra de linha por parametro
+-   [sqls] e [dao] Campos 'json' com validação e conversão conforme model e possibilidade de pesquisa por atributo
