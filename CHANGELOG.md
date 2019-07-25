@@ -54,3 +54,5 @@
 # 1.1.3
 
 -   [daos] Source com valor default
+
+# 1.1.4
