@@ -65,3 +65,5 @@
 -   [daos] Bug: Não estava retornando coluna com valor zero
 
 # 1.1.6
+
+-   [daos] Conversão de array de json para array de object
