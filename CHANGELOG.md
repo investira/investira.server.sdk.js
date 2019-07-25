@@ -50,3 +50,5 @@
 # 1.1.2
 
 -   [sqls] Correção - pvModelCompliance
+
+# 1.1.3
