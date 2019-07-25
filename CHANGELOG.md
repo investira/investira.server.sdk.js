@@ -56,3 +56,9 @@
 -   [daos] Source com valor default
 
 # 1.1.4
+
+-   [daos] Correção do dao
+
+# 1.1.5
+
+-   [daos] Exibição da query quando houver erro
