@@ -63,3 +63,5 @@
 
 -   [daos] Exibição da query quando houver erro
 -   [daos] Bug: Não estava retornando coluna com valor zero
+
+# 1.1.6
