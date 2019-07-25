@@ -46,3 +46,7 @@
 
 -   [sqls] Otimização do tratamento de condições
 -   [sqls] Inclusão de operador 'BETWEEN'
+
+# 1.1.2
+
+-   [sqls] Correção - pvModelCompliance
