@@ -52,3 +52,5 @@
 -   [sqls] Correção - pvModelCompliance
 
 # 1.1.3
+
+-   [daos] Source com valor default
