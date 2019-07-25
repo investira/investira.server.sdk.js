@@ -62,3 +62,4 @@
 # 1.1.5
 
 -   [daos] Exibição da query quando houver erro
+-   [daos] Bug: Não estava retornando coluna com valor zero
