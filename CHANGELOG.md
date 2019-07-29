@@ -67,3 +67,4 @@
 # 1.1.6
 
 -   [daos] Conversão de array de json para array de object
+-   [files] Nova função 'readdir'. Retornar lista de arquivos de uma pasta
