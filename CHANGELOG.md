@@ -67,4 +67,8 @@
 # 1.1.6
 
 -   [daos] Conversão de array de json para array de object
--   [files] Nova função 'readdir'. Retornar lista de arquivos de uma pasta
+-   [files] Nova função 'readDir'. Retornar lista de arquivos de uma pasta
+-   [files] Nova função 'isDir'. Retorna se arquivo é um diretório
+-   [files] Nova função 'isFile'. Retorna se é realmente um arquivo
+-   [files] Nova função 'remove'. Remover arquivo localmente
+-   [files] unzip retorna lista dos arquivos descompactados
