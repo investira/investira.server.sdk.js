@@ -72,4 +72,4 @@
 -   [files] Nova função 'isFile'. Retorna se é realmente um arquivo
 -   [files] Nova função 'remove'. Remover arquivo localmente
 -   [files] unzip retorna lista dos arquivos descompactados
--   [sqls] Ignora log de error 'Deadlock' e 'Duplicate Entry'
+-   [sqls] Tratamento especial para error 'Deadlock' e 'Duplicate Entry'
