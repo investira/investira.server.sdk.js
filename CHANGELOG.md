@@ -73,3 +73,4 @@
 -   [files] Nova função 'remove'. Remover arquivo localmente
 -   [files] unzip retorna lista dos arquivos descompactados
 -   [sqls] Tratamento especial para error 'Deadlock' e 'Duplicate Entry'
+-   [files] retirada catch do 'download' para que seja tradado pelo chamador
