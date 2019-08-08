@@ -74,3 +74,5 @@
 -   [files] unzip retorna lista dos arquivos descompactados
 -   [sqls] Tratamento especial para error 'Deadlock' e 'Duplicate Entry'
 -   [files] retirada catch do 'download' para que seja tradado pelo chamador
+-   [sqls] Opção de 'Select' para não retornar nenhuma coluna
+-   [sqls] Correção quando valor do campo é 'undefined'
