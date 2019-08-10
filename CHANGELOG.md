@@ -72,7 +72,9 @@
 -   [files] Nova função 'isFile'. Retorna se é realmente um arquivo
 -   [files] Nova função 'remove'. Remover arquivo localmente
 -   [files] unzip retorna lista dos arquivos descompactados
--   [sqls] Tratamento especial para error 'Deadlock' e 'Duplicate Entry'
+-   [sqls] Tentativa automatica se novo insert após 'Deadlock'
 -   [files] retirada catch do 'download' para que seja tradado pelo chamador
 -   [sqls] Opção de 'Select' para não retornar nenhuma coluna
 -   [sqls] Correção quando valor do campo é 'undefined'
+-   [sqls] Bloqueio de update quando não houver critério definido
+-   [sqls] Bloqueio de select quando colunas no cretério não fizerem parte do tableModel
