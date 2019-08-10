@@ -78,3 +78,4 @@
 -   [sqls] Correção quando valor do campo é 'undefined'
 -   [sqls] Bloqueio de update quando não houver critério definido
 -   [sqls] Bloqueio de select quando colunas no cretério não fizerem parte do tableModel
+-   [sqls] Novo tipo de dado 'datetime'. tipo 'date' somente armazenará data sem a hora.
