@@ -64,7 +64,7 @@
 -   [daos] Exibição da query quando houver erro
 -   [daos] Bug: Não estava retornando coluna com valor zero
 
-# 1.1.6
+# 1.2.0
 
 -   [daos] Conversão de array de json para array de object
 -   [files] Nova função 'readDir'. Retornar lista de arquivos de uma pasta
