@@ -80,3 +80,5 @@
 -   [sqls] Bloqueio de select quando colunas no cretério não fizerem parte do tableModel
 -   [sqls] Novo tipo de dado 'datetime'. tipo 'date' somente armazenará data sem a hora
 -   [sqls] Novo operador 'NOT IN'
+-   [sqls] Operadoradores 'IN' e 'NOT IN' passa a aceitar null como valor válido da lista
+-   [sqls] Valor para operadorador 'BETWEEN' pode ser informado como String, Array ou parametro extra
