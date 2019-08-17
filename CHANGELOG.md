@@ -82,5 +82,3 @@
 -   [sqls] Novo operador 'NOT IN'
 -   [sqls] Operadoradores 'IN' e 'NOT IN' passa a aceitar null como valor válido da lista
 -   [sqls] Valor para operadorador 'BETWEEN' pode ser informado como String, Array ou parametro extra
-
-# 1.2.1
