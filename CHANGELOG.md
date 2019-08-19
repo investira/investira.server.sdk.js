@@ -88,3 +88,5 @@
 -   [sqls] Correção da leitura de dados do banco quando for do date ou datetime
 
 # 1.2.2
+
+-   [sqls] Correção de bug MYSQL que arredonda JS number. Artifício foi converter number para string antes de salvar.
