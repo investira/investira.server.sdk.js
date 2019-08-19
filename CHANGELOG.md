@@ -86,3 +86,5 @@
 # 1.2.1
 
 -   [sqls] Correção da leitura de dados do banco quando for do date ou datetime
+
+# 1.2.2
