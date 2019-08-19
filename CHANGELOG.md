@@ -84,3 +84,5 @@
 -   [sqls] Valor para operadorador 'BETWEEN' pode ser informado como String, Array ou parametro extra
 
 # 1.2.1
+
+-   [sqls] Correção da leitura de dados do banco quando for do date ou datetime
