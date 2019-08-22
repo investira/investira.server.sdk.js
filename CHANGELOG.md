@@ -92,3 +92,7 @@
 -   [sqls] Correção de bug MYSQL que arredonda JS number. Artifício foi converter number para string antes de salvar.
 -   [files] Implementação de 'download' por FTP.
 -   [files] Implementação de 'readFile' para arquivos 'Excel'
+
+# 1.2.3
+
+-   Correção do número da versão
