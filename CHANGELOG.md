@@ -96,3 +96,7 @@
 # 1.2.3
 
 -   Correção do número da versão
+
+# 1.2.4
+
+-   [sqls] Novos operadores 'NOT LIKE' e binários '&' e '|'
