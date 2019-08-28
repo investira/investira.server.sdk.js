@@ -100,4 +100,4 @@
 # 1.2.4
 
 -   [sqls] Novos operadores 'NOT LIKE' e binários '&' e '|'
--   [sqls,requestContext,mySqlServer,endpointResponse,authorization] Controle de request abortada pelo usuário
+-   [sqls,requestContext,mySqlServer,endpointResponse,authorization] Controle de request abortado pelo usuário
