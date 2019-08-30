@@ -104,4 +104,4 @@
 
 # 1.2.5
 
--   [sqls,dao,crud] 'read' e 'readOne' retornam quantidade de registros se coluna da pesquisa for array vázio []
+-   [sqls,dao,crud] 'readOne' retorna quantidade de registros se coluna da pesquisa for array vázio []
