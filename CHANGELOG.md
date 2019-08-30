@@ -103,3 +103,5 @@
 -   [sqls,requestContext,mySqlServer,endpointResponse,authorization] Controle de request abortado pelo usuário
 
 # 1.2.5
+
+-   [sqls,dao,crud] 'read' e 'readOne' retornam quantidade de registros se coluna da pesquisa for array vázio []
