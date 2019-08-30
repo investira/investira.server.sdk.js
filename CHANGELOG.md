@@ -105,3 +105,5 @@
 # 1.2.5
 
 -   [sqls,dao,crud] 'readOne' retorna quantidade de registros se coluna da pesquisa for array vázio []
+-   [files] Implementação de 'readFile' para arquivos 'XML'
+-   [sql] Propriedades con conteúdo null não farão parte do insert
