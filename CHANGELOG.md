@@ -107,3 +107,4 @@
 -   [sqls,dao,crud] 'readOne' retorna quantidade de registros se coluna da pesquisa for array vázio []
 -   [files] Implementação de 'readFile' para arquivos 'XML'
 -   [sql] Propriedades con conteúdo null não farão parte do insert
+-   [files] Nova função 'fileExt' para retornar a extensão do arquivo
