@@ -111,3 +111,5 @@
 -   [sql] Fix: Operador 'IN' em coluna JSON pesquisando string
 -   [sql] Novos operadores 'NOT IN LIKE' e 'IN LIKE'
 -   [sql] Operadores 'LIKE', 'NOT LIKE','NOT IN LIKE' e 'IN LIKE' podem receber array com valores
+
+# 1.2.6
