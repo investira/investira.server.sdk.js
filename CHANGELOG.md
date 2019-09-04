@@ -108,3 +108,6 @@
 -   [files] Implementação de 'readFile' para arquivos 'XML'
 -   [sql] Propriedades con conteúdo null não farão parte do insert
 -   [files] Nova função 'fileExt' para retornar a extensão do arquivo
+-   [sql] Fix: Operador 'IN' em coluna JSON pesquisando string
+-   [sql] Novos operadores 'NOT IN LIKE' e 'IN LIKE'
+-   [sql] Operadores 'LIKE', 'NOT LIKE','NOT IN LIKE' e 'IN LIKE' podem receber array com valores
