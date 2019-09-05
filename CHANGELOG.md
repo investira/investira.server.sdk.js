@@ -113,3 +113,5 @@
 -   [sql] Operadores 'LIKE', 'NOT LIKE','NOT IN LIKE' e 'IN LIKE' podem receber array com valores
 
 # 1.2.6
+
+-   [sql] Fix: Operador 'NOT IN'
