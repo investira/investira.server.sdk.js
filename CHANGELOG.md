@@ -117,3 +117,5 @@
 -   [sql] Fix: Operador 'NOT IN'
 
 # 1.2.7
+
+-   [sql] Fix: operadores simples
