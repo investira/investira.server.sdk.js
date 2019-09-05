@@ -115,3 +115,5 @@
 # 1.2.6
 
 -   [sql] Fix: Operador 'NOT IN'
+
+# 1.2.7
