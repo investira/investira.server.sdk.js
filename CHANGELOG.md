@@ -119,3 +119,5 @@
 # 1.2.7
 
 -   [sql] Fix: operadores simples
+
+# 1.2.8
