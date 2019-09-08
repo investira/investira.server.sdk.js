@@ -121,3 +121,5 @@
 -   [sql] Fix: operadores simples
 
 # 1.2.8
+
+-   [sql] Implementação da clausula 'group' para groupby e coluna podendo seu uma função
