@@ -127,3 +127,5 @@
 -   [dao] Implementação de configuração de variável de ambiente do banco para utilização em view pelo atributo do model que iniciar por '@'.
 -   [sql] Nova função 'setVariable' para configuração de variável de ambiente do banco.
 -   [daoView] Nova objeto _dao_ direcionado para views
+
+# 1.2.9
