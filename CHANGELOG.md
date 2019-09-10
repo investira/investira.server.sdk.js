@@ -126,4 +126,4 @@
 -   [sql,dao,crud] Implementação de função dentro da lista das colunas selecionadas. ex:['pessoa_id', ['data', 'max(`data`)']].
 -   [dao] Implementação de configuração de variável de ambiente do banco para utilização em view pelo atributo do model que iniciar por '@'.
 -   [sql] Nova função 'setVariable' para configuração de variável de ambiente do banco.
--   [daoview] Nova objeto _dao_ direcionado para views
+-   [daoView] Nova objeto _dao_ direcionado para views
