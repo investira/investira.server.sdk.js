@@ -1,116 +1,116 @@
 # 1.0.6
 
--   [files] Novo módulo files, com funções 'projectPath' e 'sep'
--   [mySqlServer] Exclusão de log no commit e no rollback
+-   [files] Novo módulo files, com funções 'projectPath' e 'sep'.
+-   [mySqlServer] Exclusão de log no commit e no rollback.
 
 # 1.0.7
 
--   [files] Nova função 'download'
--   [sqls] Novo operador 'in'
+-   [files] Nova função 'download'.
+-   [sqls] Novo operador 'in'.
 
 # 1.0.8
 
--   [sqls] e [daos] refactor do limit e inclusão de groupBy
--   [sqls] correção do operador 'in'
+-   [sqls] e [daos] refactor do limit e inclusão de groupBy.
+-   [sqls] correção do operador 'in'.
 
 # 1.0.9
 
--   [sqls] correção para value da columa com type JSON
+-   [sqls] correção para value da columa com type JSON.
 
 # 1.0.10
 
--   [sqls] Implementação para pertimir nomes reservados como nome de colunas no banco
+-   [sqls] Implementação para pertimir nomes reservados como nome de colunas no banco.
 
 # 1.0.11
 
--   [authorization] Correção: Returns nos Rejects
--   [sqls] Operador 'in': controlado também pelo bind para evitar sql inject
--   [sqls] Operador 'in': valor poder receber um array
--   [sqls] Novo operador 'like'
--   [endpointResponse] Criação automática de atributo req.clauses contendo {sort,limit:{page,offset,size}} a partir dos parametros da query
+-   [authorization] Correção: Returns nos Rejects.
+-   [sqls] Operador 'in': controlado também pelo bind para evitar sql inject.
+-   [sqls] Operador 'in': valor poder receber um array.
+-   [sqls] Novo operador 'like'.
+-   [endpointResponse] Criação automática de atributo req.clauses contendo {sort,limit:{page,offset,size}} a partir dos parametros da query.
 
 # 1.0.12
 
--   [files] Nova função 'read' para ler arquivos
--   [files] Nova função 'unzip' para descompactar arquivos
--   [files] Nova função 'mkdir' para criar pasta se não existir
--   [files] Nova função 'rename' para renomear arquivo e pastas
+-   [files] Nova função 'read' para ler arquivos.
+-   [files] Nova função 'unzip' para descompactar arquivos.
+-   [files] Nova função 'mkdir' para criar pasta se não existir.
+-   [files] Nova função 'rename' para renomear arquivo e pastas.
 
 # 1.1.0
 
--   [sqls] Controle de Datamodel com atributos sendo objetos dentro de objetos
--   [files] 'read' controlando quebra de linha por parametro
--   [sqls] e [dao] Campos 'json' com validação e conversão conforme model e possibilidade de pesquisa por atributo
+-   [sqls] Controle de Datamodel com atributos sendo objetos dentro de objetos.
+-   [files] 'read' controlando quebra de linha por parametro.
+-   [sqls] e [dao] Campos 'json' com validação e conversão conforme model e possibilidade de pesquisa por atributo.
 
 # 1.1.1
 
--   [sqls] Otimização do tratamento de condições
--   [sqls] Inclusão de operador 'BETWEEN'
+-   [sqls] Otimização do tratamento de condições.
+-   [sqls] Inclusão de operador 'BETWEEN'.
 
 # 1.1.2
 
--   [sqls] Correção - pvModelCompliance
+-   [sqls] Correção - pvModelCompliance.
 
 # 1.1.3
 
--   [daos] Source com valor default
+-   [daos] Source com valor default.
 
 # 1.1.4
 
--   [daos] Correção do dao
+-   [daos] Correção do dao.
 
 # 1.1.5
 
--   [daos] Exibição da query quando houver erro
--   [daos] Bug: Não estava retornando coluna com valor zero
+-   [daos] Exibição da query quando houver erro.
+-   [daos] Bug: Não estava retornando coluna com valor zero.
 
 # 1.2.0
 
--   [daos] Conversão de array de json para array de object
--   [files] Nova função 'readDir'. Retornar lista de arquivos de uma pasta
--   [files] Nova função 'isDir'. Retorna se arquivo é um diretório
--   [files] Nova função 'isFile'. Retorna se é realmente um arquivo
--   [files] Nova função 'remove'. Remover arquivo localmente
--   [files] unzip retorna lista dos arquivos descompactados
--   [sqls] Tentativa automÁtica se novo insert após 'Deadlock'
--   [files] retirada catch do 'download' para que seja tradado pelo chamador
--   [sqls] Opção de 'Select' para não retornar nenhuma coluna
--   [sqls] Correção quando valor do campo é 'undefined'
--   [sqls] Bloqueio de update quando não houver critério definido
--   [sqls] Bloqueio de select quando colunas no cretério não fizerem parte do tableModel
--   [sqls] Novo tipo de dado 'datetime'. tipo 'date' somente armazenará data sem a hora
--   [sqls] Novo operador 'NOT IN'
--   [sqls] Operadoradores 'IN' e 'NOT IN' passa a aceitar null como valor válido da lista
--   [sqls] Valor para operadorador 'BETWEEN' pode ser informado como String, Array ou parametro extra
+-   [daos] Conversão de array de json para array de object.
+-   [files] Nova função 'readDir'. Retornar lista de arquivos de uma pasta.
+-   [files] Nova função 'isDir'. Retorna se arquivo é um diretório.
+-   [files] Nova função 'isFile'. Retorna se é realmente um arquivo.
+-   [files] Nova função 'remove'. Remover arquivo localmente.
+-   [files] unzip retorna lista dos arquivos descompactados.
+-   [sqls] Tentativa automÁtica se novo insert após 'Deadlock'.
+-   [files] retirada catch do 'download' para que seja tradado pelo chamador.
+-   [sqls] Opção de 'Select' para não retornar nenhuma coluna.
+-   [sqls] Correção quando valor do campo é 'undefined'.
+-   [sqls] Bloqueio de update quando não houver critério definido.
+-   [sqls] Bloqueio de select quando colunas no cretério não fizerem parte do tableModel.
+-   [sqls] Novo tipo de dado 'datetime'. tipo 'date' somente armazenará data sem a hora.
+-   [sqls] Novo operador 'NOT IN'.
+-   [sqls] Operadoradores 'IN' e 'NOT IN' passa a aceitar null como valor válido da lista.
+-   [sqls] Valor para operadorador 'BETWEEN' pode ser informado como String, Array ou parametro extra.
 
 # 1.2.1
 
--   [sqls] Correção da leitura de dados do banco quando for do date ou datetime
+-   [sqls] Correção da leitura de dados do banco quando for do date ou datetime.
 
 # 1.2.2
 
 -   [sqls] Correção de bug MYSQL que arredonda JS number. Artifício foi converter number para string antes de salvar.
 -   [files] Implementação de 'download' por FTP.
--   [files] Implementação de 'readFile' para arquivos 'Excel'
+-   [files] Implementação de 'readFile' para arquivos 'Excel'.
 
 # 1.2.3
 
--   Correção do número da versão
+-   Correção do número da versão.
 
 # 1.2.4
 
--   [sqls] Novos operadores 'NOT LIKE' e binários '&' e '|'
--   [sqls,requestContext,mySqlServer,endpointResponse,authorization] Controle de request abortado pelo usuário
+-   [sqls] Novos operadores 'NOT LIKE' e binários '&' e '|'.
+-   [sqls,requestContext,mySqlServer,endpointResponse,authorization] Controle de request abortado pelo usuário.
 
 # 1.2.5
 
--   [sqls,dao,crud] 'readOne' retorna quantidade de registros se coluna da pesquisa for array vázio []
--   [files] Implementação de 'readFile' para arquivos 'XML'
--   [sql] Propriedades con conteúdo null não farão parte do insert
--   [files] Nova função 'fileExt' para retornar a extensão do arquivo
--   [sql] Fix: Operador 'IN' em coluna JSON pesquisando string
--   [sql] Novos operadores 'NOT IN LIKE' e 'IN LIKE'
--   [sql] Operadores 'LIKE', 'NOT LIKE','NOT IN LIKE' e 'IN LIKE' podem receber array com valores
+-   [sqls,dao,crud] 'readOne' retorna quantidade de registros se coluna da pesquisa for array vázio [].
+-   [files] Implementação de 'readFile' para arquivos 'XML'.
+-   [sql] Propriedades con conteúdo null não farão parte do insert.
+-   [files] Nova função 'fileExt' para retornar a extensão do arquivo.
+-   [sql] Fix: Operador 'IN' em coluna JSON pesquisando string.
+-   [sql] Novos operadores 'NOT IN LIKE' e 'IN LIKE'.
+-   [sql] Operadores 'LIKE', 'NOT LIKE','NOT IN LIKE' e 'IN LIKE' podem receber array com valores.
 
 # 1.2.6
 
@@ -122,4 +122,8 @@
 
 # 1.2.8
 
--   [sql] Implementação da clausula 'group' para groupby e coluna podendo seu uma função
+-   [sql,dao,crud] Implementação da cláusula 'group' para 'group by' nas clauses.
+-   [sql,dao,crud] Implementação de função dentro da lista das colunas selecionadas. ex:['pessoa_id', ['data', 'max(`data`)']].
+-   [dao] Implementação de configuração de variável de ambiente do banco para utilização em view pelo atributo do model que iniciar por '@'.
+-   [sql] Nova função 'setVariable' para configuração de variável de ambiente do banco.
+-   [daoview] Nova objeto _dao_ direcionado para views
