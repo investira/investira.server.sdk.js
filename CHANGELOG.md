@@ -129,3 +129,5 @@
 -   [daoView] Nova objeto _dao_ direcionado para views
 
 # 1.2.9
+
+-   [sql] Fix: Coluna json com type:'number' estavam estavam sendo convertidas para número, mas armazenadas como string
