@@ -130,6 +130,7 @@
 
 # 1.2.9
 
--   [sql] Fix: Coluna json com type:'number' estavam estavam sendo convertidas para número, mas armazenadas como string
--   [files] 'readFile' passa a separar colunas utilizando 'tab' na leitura de XLS
--   [files] Fix: 'download' estava definindo o nome de arquivo considerando os parametros da url
+-   [sql] Fix: Coluna json com type:'number' estavam estavam sendo convertidas para número, mas armazenadas como string.
+-   [files] 'readFile' passa a separar colunas utilizando 'tab' na leitura de XLS.
+-   [files] Fix: 'download' estava definindo o nome de arquivo considerando os parametros da url.
+-   [sql] Fix: Clausula 'IN' com array contendo null.
