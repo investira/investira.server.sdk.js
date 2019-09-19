@@ -72,8 +72,8 @@
 -   [files] Nova função 'isFile'. Retorna se é realmente um arquivo.
 -   [files] Nova função 'remove'. Remover arquivo localmente.
 -   [files] unzip retorna lista dos arquivos descompactados.
--   [sqls] Tentativa automÁtica se novo insert após 'Deadlock'.
 -   [files] retirada catch do 'download' para que seja tradado pelo chamador.
+-   [sqls] Tentativa automÁtica se novo insert após 'Deadlock'.
 -   [sqls] Opção de 'Select' para não retornar nenhuma coluna.
 -   [sqls] Correção quando valor do campo é 'undefined'.
 -   [sqls] Bloqueio de update quando não houver critério definido.
@@ -106,8 +106,8 @@
 
 -   [sqls,dao,crud] 'readOne' retorna quantidade de registros se coluna da pesquisa for array vázio [].
 -   [files] Implementação de 'readFile' para arquivos 'XML'.
--   [sql] Propriedades con conteúdo null não farão parte do insert.
 -   [files] Nova função 'fileExt' para retornar a extensão do arquivo.
+-   [sql] Propriedades con conteúdo null não farão parte do insert.
 -   [sql] Fix: Operador 'IN' em coluna JSON pesquisando string.
 -   [sql] Novos operadores 'NOT IN LIKE' e 'IN LIKE'.
 -   [sql] Operadores 'LIKE', 'NOT LIKE','NOT IN LIKE' e 'IN LIKE' podem receber array com valores.
@@ -130,7 +130,8 @@
 
 # 1.2.9
 
--   [sql] Fix: Coluna json com type:'number' estavam estavam sendo convertidas para número, mas armazenadas como string.
 -   [files] 'readFile' passa a separar colunas utilizando 'tab' na leitura de XLS.
 -   [files] Fix: 'download' estava definindo o nome de arquivo considerando os parametros da url.
+-   [files] Nova função 'rmDir' para excluir pasta
+-   [sql] Fix: Coluna json com type:'number' estavam estavam sendo convertidas para número, mas armazenadas como string.
 -   [sql] Fix: Clausula 'IN' com array contendo null.
