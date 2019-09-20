@@ -135,3 +135,4 @@
 -   [files] Nova função 'rmDir' para excluir pasta
 -   [sql] Fix: Coluna json com type:'number' estavam estavam sendo convertidas para número, mas armazenadas como string.
 -   [sql] Fix: Clausula 'IN' com array contendo null.
+-   [sql,dao,crud] Novo tipo de dado 'time' contendo somente a hora:minuto:segundo
