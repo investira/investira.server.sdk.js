@@ -138,3 +138,5 @@
 -   [sql] Método 'merge' passa a efetuar o insert antes do update.
 -   [sql,dao,crud] Novo tipo de dado 'time' contendo somente a hora:minuto:segundo.
 -   [sql,dao,crud] Fix: query com not null
+
+# 1.2.10
