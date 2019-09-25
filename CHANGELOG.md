@@ -140,3 +140,6 @@
 -   [sql,dao,crud] Fix: query com not null
 
 # 1.2.10
+
+-   [files] 'Download' com novo atributo 'filename' para forçar o nome do arquivo a ser salvo, caso não a requisição não forneça automaticamente
+-   [files] Fix: 'Read' - inclusão de try/catch
