@@ -145,3 +145,5 @@
 -   [files] Fix: 'Read' - inclusão de try/catch
 
 # 1.2.11
+
+-   [files] fix: 'download' - configuração do timeout.
