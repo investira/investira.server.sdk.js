@@ -147,4 +147,4 @@
 # 1.2.11
 
 -   [files] fix: 'download' - configuração do timeout.
--   [sqls] fix: Implementado artifício para corrigir problema do mySql que arredonda as casas decimais no update
+-   [sqls] fix: Implementado artifício para corrigir problema do mySql com casas decimais no insert em colunas raiz e no update em atributos de colunas json.
