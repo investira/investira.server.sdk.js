@@ -148,3 +148,7 @@
 
 -   [files] fix: 'download' - configuração do timeout.
 -   [sqls] fix: Implementado artifício para corrigir problema do mySql com casas decimais no insert em colunas raiz e no update em atributos de colunas json.
+
+# 1.2.12
+
+-   [sqls] fix: Conversão para Decimal quando valor é vazio.
