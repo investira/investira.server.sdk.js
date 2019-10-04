@@ -152,3 +152,4 @@
 # 1.2.12
 
 -   [sqls] fix: Conversão para Decimal quando valor é vazio.
+-   [sqls] Inclusão de operador '^'.
