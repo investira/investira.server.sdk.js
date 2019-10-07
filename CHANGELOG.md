@@ -154,3 +154,5 @@
 -   [sqls] fix: Conversão para Decimal quando valor é vazio.
 -   [sqls] Inclusão de operador '^'.
 -   [files] 'readFile' Implementação de leitura de arquivo pdf.
+
+# 1.2.13
