@@ -41,3 +41,10 @@ const requestContext = require('investira.server.sdk').requestContext;
 const log = require('investira.server.sdk').log;
 
 ```
+
+Query Conditions
+
+1. {field: value}
+2. {field: [operator, value]}
+
+operators: '=','<','>','>=','<=','!=','&','|','^','IN','NOT IN','LIKE','NOT LIKE','IN LIKE','NOT IN LIKE','BETWEEN'
