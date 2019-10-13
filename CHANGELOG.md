@@ -156,3 +156,5 @@
 -   [files] 'readFile' Implementação de leitura de arquivo pdf.
 
 # 1.2.13
+
+-   [dao] Inclusão do parametro 'Clauses' no 'readOne'
