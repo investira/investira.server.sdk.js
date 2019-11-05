@@ -159,3 +159,5 @@
 
 -   [dao] Inclusão do parametro 'Clauses' no 'readOne'.
 -   [files] <code>unzip</code> passa a desconsiderar arquivos com começam com '.' (hidden file no mac) ou terminal com '/' (diretório).
+
+# 1.2.14
