@@ -161,3 +161,6 @@
 -   [files] <code>unzip</code> passa a desconsiderar arquivos com começam com '.' (hidden file no mac) ou terminal com '/' (diretório).
 
 # 1.2.14
+
+-   [files] <code>rmDir</code> com chamada recursiva.
+-   [files] <code>readFile</code> para arquivos XLS, com seleção da página.
