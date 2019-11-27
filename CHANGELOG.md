@@ -164,3 +164,7 @@
 
 -   [files] <code>rmDir</code> com chamada recursiva.
 -   [files] <code>readFile</code> para arquivos XLS, com seleção da página.
+
+# 1.2.15
+
+-   [files] <code>unzip</code> com parametro validateEntrySizes.
