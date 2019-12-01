@@ -168,3 +168,5 @@
 # 1.2.15
 
 -   [files] <code>unzip</code> com parametro validateEntrySizes.
+
+# 1.2.16
