@@ -172,3 +172,5 @@
 # 1.2.16
 
 -   [dao] e [crud] Novo método <code>modifyOne</code>
+
+# 1.2.17
