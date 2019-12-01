@@ -170,3 +170,5 @@
 -   [files] <code>unzip</code> com parametro validateEntrySizes.
 
 # 1.2.16
+
+-   [dao] e [crud] Novo método <code>modifyOne</code>
