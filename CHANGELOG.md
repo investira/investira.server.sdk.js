@@ -174,3 +174,5 @@
 -   [dao] e [crud] Novo método <code>modifyOne</code>
 
 # 1.2.17
+
+-   [dao] e [crud] <code>modifyOne</code> com callback contendo informação do que foi modificado
