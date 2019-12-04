@@ -176,3 +176,5 @@
 # 1.2.17
 
 -   [dao] e [crud] <code>modifyOne</code> com callback contendo informação do que foi modificado
+
+# 1.2.18
