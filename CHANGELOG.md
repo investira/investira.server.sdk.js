@@ -180,3 +180,5 @@
 # 1.2.18
 
 -   Atualização do investira.sdk
+
+# 1.2.19
