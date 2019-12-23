@@ -184,3 +184,5 @@
 # 1.2.19
 
 -   [sqls] Validação de valor nulo em pvConvertValue
+
+# 1.2.20
