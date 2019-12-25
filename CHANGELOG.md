@@ -188,3 +188,5 @@
 # 1.2.20
 
 -   [investira.data] Alterado para peer dependency
+
+# 1.2.21
