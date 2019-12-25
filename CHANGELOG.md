@@ -186,3 +186,5 @@
 -   [sqls] Validação de valor nulo em pvConvertValue
 
 # 1.2.20
+
+-   [investira.data] Alterado para peer dependency
