@@ -190,3 +190,5 @@
 -   [investira.data] Alterado para peer dependency
 
 # 1.2.21
+
+-   [files] Nova <code>exists</code> função para verificar se arquivo ou diretório existem
