@@ -192,3 +192,4 @@
 # 1.2.21
 
 -   [files] Nova <code>exists</code> função para verificar se arquivo ou diretório existem
+-   [sqls] Permitir consulta com conditions somente com variáveis de ambiente ('@')
