@@ -195,3 +195,5 @@
 -   [sqls] Permitir consulta com conditions somente com variáveis de ambiente ('@')
 
 # 1.2.22
+
+-   [transactionWrapper] Novo objeto para execução de função dentro de uma transação
