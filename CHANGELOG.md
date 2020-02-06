@@ -197,3 +197,9 @@
 # 1.2.22
 
 -   [transactionWrapper] Novo objeto para execução de função dentro de uma transação
+
+# 1.2.23
+
+    Export
+
+# 1.2.24
