@@ -205,3 +205,5 @@
 # 1.2.24
 
 -   [transactionWrapper] Otimização
+
+# 1.2.25
