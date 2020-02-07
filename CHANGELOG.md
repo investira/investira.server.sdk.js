@@ -203,3 +203,5 @@
     Export
 
 # 1.2.24
+
+-   [transactionWrapper] Otimização
