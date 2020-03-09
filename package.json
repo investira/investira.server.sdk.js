@@ -40,7 +40,7 @@
         "bcrypt": "3.0.6",
         "ftp": "0.3.10",
         "investira.data": "^1.1.8",
-        "investira.sdk": "^1.2.20",
+        "investira.sdk": "^1.2.21",
         "nodemailer": "6.1.1",
         "on-finished": "2.3.0",
         "pdf-parser": "1.0.5",
