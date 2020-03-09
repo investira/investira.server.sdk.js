@@ -207,3 +207,11 @@
 -   [transactionWrapper] Otimização
 
 # 1.2.25
+
+-   Atualização do investira.sdk
+
+# 1.2.26
+
+-   [endpointResponse] Utilização dos novos atributos das mensagens básicas
+
+# 1.2.27
