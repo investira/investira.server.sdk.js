@@ -215,3 +215,5 @@
 -   [endpointResponse] Utilização dos novos atributos das mensagens básicas
 
 # 1.2.27
+
+-   [files] <code>remove</code> com novo atributo IgnoreNotFound
