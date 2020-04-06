@@ -218,3 +218,5 @@
 
 -   [files] <code>remove</code> com novo atributo IgnoreNotFound
 -   Atualização de segurança
+
+# 1.2.28
