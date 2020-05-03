@@ -220,3 +220,5 @@
 -   Atualização de segurança
 
 # 1.2.28
+
+-   [files] leitura de arquivo json.
