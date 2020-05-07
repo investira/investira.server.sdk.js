@@ -226,3 +226,5 @@
 # 1.2.29
 
 -   [requestConext] Redução dos logs padrão
+
+# 1.2.30
