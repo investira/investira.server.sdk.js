@@ -222,3 +222,7 @@
 # 1.2.28
 
 -   [files] leitura de arquivo json.
+
+# 1.2.29
+
+-   [requestConext] Redução dos logs padrão
