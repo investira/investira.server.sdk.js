@@ -228,3 +228,5 @@
 -   [requestConext] Redução dos logs padrão
 
 # 1.2.30
+
+-   [systems] Novo módulo com metodos sobre o sistema
