@@ -230,3 +230,5 @@
 # 1.2.30
 
 -   [systems] Novo módulo com metodos sobre o sistema
+
+# 1.2.31
