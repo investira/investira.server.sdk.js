@@ -234,3 +234,5 @@
 # 1.3.0
 
 -   [logs] Novo módulos para controles de logs
+
+# 1.3.1
