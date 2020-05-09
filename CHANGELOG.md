@@ -231,4 +231,6 @@
 
 -   [systems] Novo módulo com metodos sobre o sistema
 
-# 1.2.31
+# 1.3.0
+
+-   [logs] Novo módulos para controles de logs
