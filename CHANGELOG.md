@@ -235,4 +235,6 @@
 
 -   [logs] Novo módulos para controles de logs
 
-# 1.3.1
+# 2.0.0
+
+Refactor do log
