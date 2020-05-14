@@ -240,3 +240,5 @@
 Refactor do log
 
 # 2.0.1
+
+-   [sqls] Mensagens com detail
