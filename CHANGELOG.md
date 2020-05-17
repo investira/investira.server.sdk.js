@@ -244,3 +244,6 @@ Refactor do log
 -   [sqls] Mensagens com detail
 
 # 2.0.2
+
+-   [log] Retorna função e não mais o resultado da função. ATENÇÃO: Inicialização deveser efetuada como 'log()' e não mais simplemente 'log'.
+-   [logs] Criação de log por data
