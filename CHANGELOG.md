@@ -251,3 +251,5 @@ Refactor do log
 # 2.0.3
 
 -   [log] Criação de global.gLog padrão.
+
+# 2.0.4
