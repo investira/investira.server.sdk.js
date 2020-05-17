@@ -27,4 +27,4 @@ module.exports.requestContext = require('./lib/middlewares/requestContext');
 module.exports.log = require('./lib/log');
 
 //@ts-ignore
-global.gLog = require('./lib/log');
+global.gLog = require('./lib/log')();

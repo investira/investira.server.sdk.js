@@ -247,3 +247,7 @@ Refactor do log
 
 -   [log] Retorna função e não mais o resultado da função. ATENÇÃO: Inicialização deveser efetuada como 'log()' e não mais simplemente 'log'.
 -   [logs] Criação de log por data
+
+# 2.0.3
+
+-   [log] Criação de global.gLog padrão.
