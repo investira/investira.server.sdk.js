@@ -261,3 +261,6 @@ Refactor do log
     Atualização do investira.sdk
 
 # 2.0.6
+
+-   [dao] Inclusão de informação de origem do erro
+-   [endpointResponse] Inclusão de informação de origem do erro
