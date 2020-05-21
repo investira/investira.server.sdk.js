@@ -253,3 +253,9 @@ Refactor do log
 -   [log] Criação de global.gLog padrão.
 
 # 2.0.4
+
+    Atualização do investira.sdk
+
+# 2.0.5
+
+    Atualização do investira.sdk
