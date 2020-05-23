@@ -253,3 +253,5 @@ Refactor do log
 -   [log] Criação de global.gLog padrão.
 
 # 2.0.4
+
+-   [log] Tratamento de mensagem dentro de mensagem
