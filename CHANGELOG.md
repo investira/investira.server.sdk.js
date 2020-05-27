@@ -264,3 +264,5 @@ Refactor do log
 
 -   [dao] Inclusão de informação de origem do erro
 -   [endpointResponse] Inclusão de informação de origem do erro
+-   [logs] Exclusão do prettyPrint
+-   [sse] Novo módulo para conexão sse
