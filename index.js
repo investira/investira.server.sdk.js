@@ -15,6 +15,7 @@ module.exports.crud = require('./lib/dbs/crud');
 module.exports.CRUD_ACTION_TYPE = require('./lib/dbs/crud').CRUD_ACTION_TYPE;
 module.exports.transactionWrapper = require('./lib/dbs/transactionWrapper');
 module.exports.mySqlServer = require('./lib/dbs/mySqlServer');
+module.exports.sse = require('./lib/dbs/sse');
 
 module.exports.httpCors = require('./lib/middlewares/httpCors');
 module.exports.hostsCheckPoint = require('./lib/middlewares/hostsCheckPoint');
