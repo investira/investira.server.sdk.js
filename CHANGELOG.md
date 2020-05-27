@@ -255,3 +255,7 @@ Refactor do log
 # 2.0.4
 
 -   [log] Tratamento de mensagem dentro de mensagem
+
+# 2.0.5
+
+-   [logs] Retirada do printPrint como default do logger
