@@ -268,3 +268,5 @@ Refactor do log
 -   [sse] Novo módulo para conexão sse
 
 # 2.0.7
+
+-   [endpointResponse] Correção da exibição do stack
