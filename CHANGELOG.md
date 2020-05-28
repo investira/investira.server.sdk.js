@@ -266,3 +266,5 @@ Refactor do log
 -   [endpointResponse] Inclusão de informação de origem do erro
 -   [logs] Exclusão do prettyPrint
 -   [sse] Novo módulo para conexão sse
+
+# 2.0.7
