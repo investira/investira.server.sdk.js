@@ -270,3 +270,8 @@ Refactor do log
 # 2.0.7
 
 -   [endpointResponse] Correção da exibição do stack
+
+# 2.0.8
+
+-   [endpointResponse] Configuração automática da paginação de requests
+-   [sqls] Alteração do log quando não há condição informada na query
