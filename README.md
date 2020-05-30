@@ -10,7 +10,7 @@ Or add this package to your `package.json` file:
 
 ```
 "dependencies": {
-    "investira.server.sdk": "^2.0.5"
+    "investira.server.sdk": "^2.0.9"
   }
 ```
 

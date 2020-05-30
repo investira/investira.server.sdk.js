@@ -275,3 +275,7 @@ Refactor do log
 
 -   [endpointResponse] Configuração automática da paginação de requests
 -   [sqls] Alteração do log quando não há condição informada na query
+
+# 2.0.9
+
+-   [logs] Correção da exibição do timestamp
