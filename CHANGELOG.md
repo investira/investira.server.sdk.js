@@ -279,3 +279,8 @@ Refactor do log
 # 2.0.9
 
 -   [logs] Correção da exibição do timestamp
+
+# 2.0.10
+
+-   [endpointResponse] Padronização da resposta de erro
+-   [logs] Utilização do stringfy no log
