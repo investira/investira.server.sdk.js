@@ -292,3 +292,7 @@ Atualização do investira.sdk
 # 2.0.12
 
 -   [files] Novo método <code>stat</code> para retornar os dados do arquivo incluindo o nome
+
+# 2.0.13
+
+Atualização do investira.sdk
