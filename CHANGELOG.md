@@ -301,3 +301,7 @@ Atualização do investira.sdk
 
 -   [dao] Otimização do tratamento de erro de conversão
 -   [sql] Otimização do tratamento de erro de conversão
+
+# 2.0.15
+
+Atualização do investira.sdk
