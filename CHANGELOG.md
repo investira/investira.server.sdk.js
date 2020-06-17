@@ -296,3 +296,8 @@ Atualização do investira.sdk
 # 2.0.13
 
 Atualização do investira.sdk
+
+# 2.0.14
+
+-   [dao] Otimização do tratamento de erro de conversão
+-   [sql] Otimização do tratamento de erro de conversão
