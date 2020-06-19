@@ -305,3 +305,15 @@ Atualização do investira.sdk
 # 2.0.15
 
 Atualização do investira.sdk
+
+# 2.0.16
+
+-   [daoTxt] Novo dao para leitura dinâmica de arquivos texto
+
+# 2.0.17
+
+-   [daoTxt] Inclusão de metódos para leitura de atributos
+
+# 2.0.18
+
+-   [daoTxt] Inclusão do metódo <code>modified</code>

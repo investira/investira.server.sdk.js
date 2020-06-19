@@ -10,6 +10,7 @@ module.exports.emailSender = require('./lib/helpers/emailSender');
 
 module.exports.dao = require('./lib/dbs/dao').dao;
 module.exports.daoView = require('./lib/dbs/dao').daoView;
+module.exports.daoTxt = require('./lib/dbs/daoTxt');
 module.exports.DAO_ACTION_TYPE = require('./lib/dbs/dao').DAO_ACTION_TYPE;
 module.exports.crud = require('./lib/dbs/crud');
 module.exports.CRUD_ACTION_TYPE = require('./lib/dbs/crud').CRUD_ACTION_TYPE;
