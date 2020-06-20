@@ -317,3 +317,4 @@ Atualização do investira.sdk
 # 2.0.18
 
 -   [daoTxt] Inclusão do metódo <code>modified</code>
+-   [logs] Verificação de message existe
