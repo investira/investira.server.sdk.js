@@ -322,3 +322,7 @@ Atualização do investira.sdk
 # 2.0.19
 
 -   [daoTxt] Correção da tamanho da linha
+
+# 2.0.20
+
+-   [endpointResponse] Verificação de página em relação ao total
