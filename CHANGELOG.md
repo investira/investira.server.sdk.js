@@ -326,3 +326,6 @@ Atualização do investira.sdk
 # 2.0.20
 
 -   [endpointResponse] Verificação de página em relação ao total
+-   [daoTxt] Sincronização antes linescount
+-   [daoTxt] Resincronização a partir da data de alteração
+-   [daoTxt] lineCount retorna Promise
