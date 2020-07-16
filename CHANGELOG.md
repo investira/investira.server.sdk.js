@@ -329,3 +329,7 @@ Atualização do investira.sdk
 -   [daoTxt] Sincronização antes linescount
 -   [daoTxt] Resincronização a partir da data de alteração
 -   [daoTxt] lineCount retorna Promise
+
+# 2.0.21
+
+-   [endpointResponse] Criação dos link de paginação a partir da query
