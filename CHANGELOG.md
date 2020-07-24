@@ -333,3 +333,7 @@ Atualização do investira.sdk
 # 2.0.21
 
 -   [endpointResponse] Criação dos link de paginação a partir da query
+
+# 2.0.23
+
+-   [sqls] Clauses com opção DISCTINCT
