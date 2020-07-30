@@ -334,6 +334,6 @@ Atualização do investira.sdk
 
 -   [endpointResponse] Criação dos link de paginação a partir da query
 
-# 2.0.23
+# 2.0.22
 
 -   [sqls] Clauses com opção DISCTINCT
