@@ -337,3 +337,7 @@ Atualização do investira.sdk
 # 2.0.22
 
 -   [sqls] Clauses com opção DISCTINCT
+
+# 2.0.23
+
+-   [endpointResponse] Correção dos links da paginação
