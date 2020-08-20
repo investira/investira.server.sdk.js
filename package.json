@@ -37,7 +37,7 @@
     "dependencies": {
         "@mysql/xdevapi": "8.0.17",
         "@types/node": "11.9.4",
-        "bcrypt": "3.0.8",
+        "bcrypt": "5.0.0",
         "ftp": "0.3.10",
         "investira.sdk": "^2.0.12",
         "nodemailer": "6.1.1",
