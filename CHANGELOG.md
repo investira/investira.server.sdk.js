@@ -341,3 +341,7 @@ Atualização do investira.sdk
 # 2.0.23
 
 -   [endpointResponse] Correção dos links da paginação
+
+# 2.1.0
+
+-   [bcrypt] Atualização do pacote
