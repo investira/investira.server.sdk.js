@@ -345,3 +345,9 @@ Atualização do investira.sdk
 # 2.1.0
 
 -   [bcrypt] Atualização do pacote
+
+# 2.1.1
+
+-   [winston] Atualização do pacote
+-   [pug] Atualização do pacote
+-   [nodemailer] Atualização do pacote
