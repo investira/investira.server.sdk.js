@@ -351,3 +351,7 @@ Atualização do investira.sdk
 -   [winston] Atualização do pacote
 -   [pug] Atualização do pacote
 -   [nodemailer] Atualização do pacote
+
+# 2.1.2
+
+-   [sqls] Otimização para update de colunas json
