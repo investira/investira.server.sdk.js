@@ -355,3 +355,11 @@ Atualização do investira.sdk
 # 2.1.2
 
 -   [sqls] Otimização para update de colunas json
+
+# 2.1.3
+
+-   [sqls] Correção para update de colunas json
+
+# 2.1.4
+
+-   [sqls] Correção para update de colunas json
