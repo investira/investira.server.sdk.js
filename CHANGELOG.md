@@ -367,3 +367,7 @@ Atualização do investira.sdk
 # 2.1.5
 
 -   [sqls] Atualização do driver para o Mysql
+
+# 2.2.0
+
+-   [dao] Correção do remove
