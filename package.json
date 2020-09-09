@@ -35,11 +35,11 @@
         "_test": "nodemon --inspect-brk ./_tests/test"
     },
     "dependencies": {
-        "@mysql/xdevapi": "8.0.17",
+        "@mysql/xdevapi": "8.0.21",
         "@types/node": "11.9.4",
         "bcrypt": "5.0.0",
         "ftp": "0.3.10",
-        "investira.sdk": "^2.0.15",
+        "investira.sdk": "^2.0.17",
         "nodemailer": "6.4.11",
         "on-finished": "2.3.0",
         "pdf-parser": "1.0.5",
