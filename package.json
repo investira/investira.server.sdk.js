@@ -39,7 +39,7 @@
         "@types/node": "11.9.4",
         "bcrypt": "5.0.0",
         "ftp": "0.3.10",
-        "investira.sdk": "^2.0.19",
+        "investira.sdk": "^2.0.20",
         "nodemailer": "6.4.11",
         "on-finished": "2.3.0",
         "pdf-parser": "1.0.5",
