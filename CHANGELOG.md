@@ -371,3 +371,7 @@ Atualização do investira.sdk
 # 2.2.0
 
 -   [dao] Correção do remove
+
+# 2.2.2
+
+-   [endpointResponse] Exclusão do offset
