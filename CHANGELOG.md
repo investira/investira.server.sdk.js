@@ -375,3 +375,7 @@ Atualização do investira.sdk
 # 2.2.2
 
 -   [endpointResponse] Exclusão do offset
+
+# 2.2.3
+
+-   [endpointResponse] Correção de parâmetros invertidos nos links de paginação
