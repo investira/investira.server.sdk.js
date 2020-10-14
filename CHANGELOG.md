@@ -379,3 +379,7 @@ Atualização do investira.sdk
 # 2.2.3
 
 -   [endpointResponse] Correção de parâmetros invertidos nos links de paginação
+
+# 2.2.4
+
+-   [authorization] Retorno de UnauthorizedError
