@@ -383,3 +383,9 @@ Atualização do investira.sdk
 # 2.2.4
 
 -   [authorization] Retorno de UnauthorizedError
+
+# 2.2.5
+
+-   [endpointResponse] <code>limit.page</code> definido como 1 por padrão (valores menores que 1 não retornam links de paginação)
+-   [endpointResponse] Verificação com <code>hasOwnProperty</code> e remoção de verificações redundantes
+-   [sqls] Utilização de <code>deepCopy</code> para não alterar o objeto <code>clauses.limit</code> original do request
