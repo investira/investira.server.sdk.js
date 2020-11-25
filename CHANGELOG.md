@@ -389,3 +389,7 @@ Atualização do investira.sdk
 -   [endpointResponse] <code>limit.page</code> definido como 1 por padrão (valores menores que 1 não retornam links de paginação)
 -   [endpointResponse] Verificação com <code>hasOwnProperty</code> e remoção de verificações redundantes
 -   [sqls] Utilização de <code>deepCopy</code> para não alterar o objeto <code>clauses.limit</code> original do request
+
+# 2.2.6
+
+-   [sqls] Correção para testar <code>clauses</code> = null
