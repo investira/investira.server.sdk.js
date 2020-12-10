@@ -393,3 +393,7 @@ Atualização do investira.sdk
 # 2.2.6
 
 -   [sqls] Correção para testar <code>clauses</code> = null
+
+# 2.2.7
+
+-   [sqls] Correção do order by e group by
