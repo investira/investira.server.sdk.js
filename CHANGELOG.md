@@ -397,3 +397,7 @@ Atualização do investira.sdk
 # 2.2.7
 
 -   [sqls] Correção do order by e group by
+
+# 2.2.8
+
+-   [investira.sdk] Atualização
