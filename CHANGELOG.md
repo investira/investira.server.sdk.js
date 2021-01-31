@@ -405,3 +405,7 @@ Atualização do investira.sdk
 # 2.2.9
 
 -   [investira.sdk] Atualização
+
+# 2.2.10
+
+-   [investira.sdk] Atualização
