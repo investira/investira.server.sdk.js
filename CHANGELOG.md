@@ -413,3 +413,7 @@ Atualização do investira.sdk
 # 2.2.11
 
 -   [investira.sdk] Atualização
+
+# 2.2.12
+
+-   [endpointResponse] Correção no cálculo de página
