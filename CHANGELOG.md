@@ -421,3 +421,7 @@ Atualização do investira.sdk
 # 2.2.13
 
 -   [mySqlServer] Exibição do log somente com process.env.NODE_ENV = 'development'
+
+# 2.2.14
+
+-   [pug] Atualização do pug
