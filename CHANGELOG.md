@@ -425,3 +425,7 @@ Atualização do investira.sdk
 # 2.2.14
 
 -   [pug] Atualização do pug
+
+# 2.2.15
+
+-   [investira.sdk] Atualização
