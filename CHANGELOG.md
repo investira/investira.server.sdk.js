@@ -433,3 +433,7 @@ Atualização do investira.sdk
 # 2.2.16
 
 -   [investira.sdk] Atualização
+
+# 2.2.17
+
+-   [investira.sdk] Atualização
