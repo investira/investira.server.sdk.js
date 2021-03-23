@@ -437,3 +437,7 @@ Atualização do investira.sdk
 # 2.2.17
 
 -   [investira.sdk] Atualização
+
+# 2.2.17
+
+-   [requestContext] Retirada do object.freeze
