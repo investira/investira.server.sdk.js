@@ -441,3 +441,7 @@ Atualização do investira.sdk
 # 2.2.17
 
 -   [requestContext] Retirada do object.freeze
+
+# 2.2.18
+
+-   [requestContext] Reseta contador do total de request
