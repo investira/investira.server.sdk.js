@@ -1,17 +1,17 @@
 {
     "name": "investira.server.sdk",
-    "version": "2.2.18",
+    "version": "2.2.19",
     "author": "Investira",
     "description": "Investira server SDK",
     "main": "index.js",
     "types": "./lib/globals.d.ts",
     "type": "commonjs",
     "registry": true,
-    "raw": "investira.server.sdk@2.2.18",
+    "raw": "investira.server.sdk@2.2.19",
     "escapedName": "investira.server.sdk",
-    "rawSpec": "2.2.18",
+    "rawSpec": "2.2.19",
     "saveSpec": null,
-    "fetchSpec": "2.2.18",
+    "fetchSpec": "2.2.19",
     "homepage": "https://investira.com.br/",
     "engines": {
         "node": ">=11.11.0 <=12.18.0",
@@ -37,7 +37,7 @@
     "dependencies": {
         "@mysql/xdevapi": "8.0.21",
         "@types/node": "11.9.4",
-        "bcrypt": "5.0.0",
+        "bcrypt": "5.0.1",
         "ftp": "0.3.10",
         "investira.sdk": "^2.1.11",
         "nodemailer": "6.4.11",
@@ -48,7 +48,7 @@
         "winston-daily-rotate-file": "4.5.0",
         "xlsx": "0.15.6",
         "xml2js": "0.4.23",
-        "yauzl": "2.10.0"
+        "yauzl": "^2.10.0"
     },
     "jshintConfig": {
         "curly": true,

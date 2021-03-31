@@ -445,3 +445,7 @@ Atualização do investira.sdk
 # 2.2.18
 
 -   [requestContext] Reseta contador do total de request
+
+# 2.2.19
+
+-   [bcrypt] Atualização de versão
