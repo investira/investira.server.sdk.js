@@ -449,3 +449,7 @@ Atualização do investira.sdk
 # 2.2.19
 
 -   [bcrypt] Atualização de versão
+
+# 2.2.20
+
+-   [file] Novas opções para leitura de arquivo XML
