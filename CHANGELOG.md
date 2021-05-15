@@ -453,3 +453,7 @@ Atualização do investira.sdk
 # 2.2.20
 
 -   [file] Novas opções para leitura de arquivo XML
+
+# 2.2.21
+
+-   [nodemailer] Atualização de versão
