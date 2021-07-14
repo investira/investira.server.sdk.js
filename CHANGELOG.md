@@ -457,3 +457,11 @@ Atualização do investira.sdk
 # 2.2.21
 
 -   [nodemailer] Atualização de versão
+
+# 2.2.22
+
+-   [endpointResponse] Verificação dos atributos por hasOwnProperty
+
+# 2.2.23
+
+-   [endpointResponse] Exibição do log completo quando houver erro
