@@ -465,3 +465,7 @@ Atualização do investira.sdk
 # 2.2.23
 
 -   [endpointResponse] Exibição do log completo quando houver erro
+
+# 2.2.24
+
+-   atualização do investira.sdk
