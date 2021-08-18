@@ -469,3 +469,7 @@ Atualização do investira.sdk
 # 2.2.24
 
 -   atualização do investira.sdk
+
+# 2.2.25
+
+-   [endpointResponse] Interrompe response quando request for cancelado
