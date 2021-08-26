@@ -473,3 +473,12 @@ Atualização do investira.sdk
 # 2.2.25
 
 -   [endpointResponse] Interrompe response quando request for cancelado
+
+# 2.2.26
+
+-   [requestContext] Substituição do throw por log.
+
+# 2.3.0
+
+-   [@mysql/xdevapi] Atualização
+-   [@types/node] Atualização
