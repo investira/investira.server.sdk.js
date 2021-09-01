@@ -1,17 +1,17 @@
 {
     "name": "investira.server.sdk",
-    "version": "2.3.2",
+    "version": "2.3.3",
     "author": "Investira",
     "description": "Investira server SDK",
     "main": "index.js",
     "types": "./lib/globals.d.ts",
     "type": "commonjs",
     "registry": true,
-    "raw": "investira.server.sdk@2.3.2",
+    "raw": "investira.server.sdk@2.3.3",
     "escapedName": "investira.server.sdk",
-    "rawSpec": "2.3.2",
+    "rawSpec": "2.3.3",
     "saveSpec": null,
-    "fetchSpec": "2.3.2",
+    "fetchSpec": "2.3.3",
     "homepage": "https://investira.com.br/",
     "engines": {
         "node": ">=11.11.0 <=14.17.5",
@@ -35,7 +35,7 @@
         "_test": "nodemon ./_tests/test"
     },
     "dependencies": {
-        "@mysql/xdevapi": "8.0.24",
+        "@mysql/xdevapi": "8.0.23",
         "@types/node": "11.9.4",
         "bcrypt": "5.0.1",
         "ftp": "0.3.10",
