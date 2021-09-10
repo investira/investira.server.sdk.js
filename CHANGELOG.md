@@ -482,3 +482,19 @@ Atualização do investira.sdk
 
 -   [@mysql/xdevapi] Atualização
 -   [@types/node] Atualização
+
+# 2.3.1
+
+-   atualização do investira.sdk
+
+# 2.3.2
+
+-   atualização do investira.sdk
+
+# 2.3.3
+
+-   atualização do investira.sdk
+
+# 2.3.4
+
+-   atualização do investira.sdk
