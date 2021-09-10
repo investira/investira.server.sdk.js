@@ -283,7 +283,7 @@ Refactor do log
 # 2.0.10
 
 -   [endpointResponse] Padronização da resposta de erro
--   [logs] Utilização do stringfy no log
+-   [logs] Utilização do stringify no log
 
 # 2.0.11
 
@@ -496,5 +496,13 @@ Atualização do investira.sdk
 -   atualização do investira.sdk
 
 # 2.3.4
+
+-   atualização do investira.sdk
+
+# 2.3.5
+
+-   atualização do investira.sdk
+
+# 2.3.6
 
 -   atualização do investira.sdk
