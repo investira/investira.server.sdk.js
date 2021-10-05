@@ -506,3 +506,7 @@ Atualização do investira.sdk
 # 2.3.6
 
 -   atualização do investira.sdk
+
+# 2.3.6
+
+[files] Download configurado com rejectUnauthorized = false
