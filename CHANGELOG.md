@@ -509,4 +509,8 @@ Atualização do investira.sdk
 
 # 2.3.7
 
-[files] Download configurado com rejectUnauthorized = false
+-   [files] Download configurado com rejectUnauthorized = false
+
+# 2.3.8
+
+-   atualização do investira.sdk
