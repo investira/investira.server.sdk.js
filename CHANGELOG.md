@@ -514,3 +514,7 @@ Atualização do investira.sdk
 # 2.3.8
 
 -   atualização do investira.sdk
+
+# 2.3.9
+
+-   atualização do investira.sdk
