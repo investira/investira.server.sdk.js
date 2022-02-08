@@ -526,3 +526,8 @@ Atualização do investira.sdk
 # 2.3.11
 
 -   atualização do investira.sdk
+
+# 2.3.12
+
+-   atualização do investira.sdk
+-   [bcyrpt] audit fix
