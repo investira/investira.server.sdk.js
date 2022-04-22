@@ -531,3 +531,9 @@ Atualização do investira.sdk
 
 -   atualização do investira.sdk
 -   [bcyrpt] audit fix
+
+# 2.4.0
+
+-   [investira.sdk] Atualização
+-   [snsService] Serviço SNS da AWS
+-   [sqsService] Serviço SQS da AWS
