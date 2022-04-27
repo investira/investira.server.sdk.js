@@ -25,6 +25,9 @@ module.exports.authorization = require('./lib/middlewares/authorization');
 module.exports.requestContext = require('./lib/middlewares/requestContext');
 module.exports.sse = require('./lib/middlewares/sse');
 
+module.exports.sqsService = require('./lib/aws/sqsService');
+module.exports.snsService = require('./lib/aws/snsService');
+
 module.exports.log = require('./lib/log');
 
 //@ts-ignore
