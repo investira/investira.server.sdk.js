@@ -537,3 +537,8 @@ Atualização do investira.sdk
 -   [investira.sdk] Atualização
 -   [snsService] Serviço SNS da AWS
 -   [sqsService] Serviço SQS da AWS
+
+# 2.4.1
+
+-   [snsService] Atualização
+-   [sqsService] Atualização
