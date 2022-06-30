@@ -542,3 +542,7 @@ Atualização do investira.sdk
 
 -   [snsService] Atualização
 -   [sqsService] Atualização
+
+# 2.4.2
+
+-   [sql] Inclusão da cláusula 'having'
