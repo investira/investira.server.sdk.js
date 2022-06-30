@@ -546,3 +546,7 @@ Atualização do investira.sdk
 # 2.4.2
 
 -   [sql] Inclusão da cláusula 'having'
+
+# 2.4.3
+
+-   [sql] Correção do 'having'
