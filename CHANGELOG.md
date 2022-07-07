@@ -550,3 +550,9 @@ Atualização do investira.sdk
 # 2.4.3
 
 -   [sql] Correção do 'having'
+
+# 2.4.4
+
+-   [nodemailer] Atualizado para 6.7.7
+-   [aws-sdk] Atualizado para 2.1169.0
+-   [investira.sdk] Atualizado
