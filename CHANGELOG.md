@@ -556,3 +556,7 @@ Atualização do investira.sdk
 -   [nodemailer] Atualizado para 6.7.7
 -   [aws-sdk] Atualizado para 2.1169.0
 -   [investira.sdk] Atualizado
+
+# 2.4.5
+
+-   [sqls] Nova função <code>execute</code>
