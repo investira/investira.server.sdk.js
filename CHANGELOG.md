@@ -560,3 +560,12 @@ Atualização do investira.sdk
 # 2.4.5
 
 -   [sqls] Nova função <code>execute</code>
+
+# 2.4.6
+
+-   [xlsx] Atualizado
+-   [investira.data] Atualizado
+
+# 2.4.7
+
+-   [investira.sdk] Atualizado
