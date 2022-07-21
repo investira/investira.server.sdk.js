@@ -569,3 +569,11 @@ Atualização do investira.sdk
 # 2.4.7
 
 -   [investira.sdk] Atualizado
+
+# 2.4.8
+
+-   [investira.sdk] Atualizado
+
+# 2.4.9
+
+-   [investira.sdk] Atualizado
