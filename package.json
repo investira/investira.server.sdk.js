@@ -35,14 +35,14 @@
         "_test": "nodemon ./_tests/test"
     },
     "dependencies": {
-        "@aws-sdk/client-codestar-notifications": "^3.137.0",
+        "@aws-sdk/client-codestar-notifications": "3.150.0",
         "@mysql/xdevapi": "8.0.23",
         "@types/node": "11.9.4",
-        "aws-sdk": "^2.1182.0",
-        "bcrypt": "5.0.1",
+        "aws-sdk": "^2.1197.0",
+        "bcrypt": "^5.0.1",
         "ftp": "0.3.10",
         "investira.sdk": "^2.2.15",
-        "nodemailer": "^6.7.7",
+        "nodemailer": "^6.7.8",
         "on-finished": "2.3.0",
         "pdf-parser": "1.0.5",
         "pug": "3.0.2",
@@ -50,7 +50,7 @@
         "winston-daily-rotate-file": "4.5.0",
         "xlsx": "0.17.5",
         "xml2js": "0.4.23",
-        "yauzl": "2.10.0"
+        "yauzl": "^2.10.0"
     },
     "jshintConfig": {
         "curly": true,
