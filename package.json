@@ -38,7 +38,7 @@
         "@aws-sdk/client-codestar-notifications": "3.150.0",
         "@mysql/xdevapi": "8.0.23",
         "@types/node": "11.9.4",
-        "aws-sdk": "^2.1197.0",
+        "aws-sdk": "^2.1201.0",
         "bcrypt": "^5.0.1",
         "ftp": "0.3.10",
         "investira.sdk": "^2.2.15",
