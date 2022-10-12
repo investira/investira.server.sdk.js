@@ -581,3 +581,16 @@ Atualização do investira.sdk
 # 2.4.10
 
 -   [investira.sdk] Atualizado
+
+# 2.4.11
+
+-   [sqls] Inclusão do atributo 'lock' nas cláusulas
+-   [dao] Inclusão do atributo 'lock' nas cláusulas
+
+# 2.4.12
+
+-   [sqls] Correção do espaço entre as cláusulas
+
+# 2.4.13
+
+-   Republish
