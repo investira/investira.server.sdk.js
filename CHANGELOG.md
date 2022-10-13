@@ -594,3 +594,7 @@ Atualização do investira.sdk
 # 2.4.13
 
 -   Republish
+
+# 2.4.14
+
+-   [dao] Correção do teste do parametro das colunas.
