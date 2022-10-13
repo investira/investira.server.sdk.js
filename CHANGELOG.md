@@ -598,3 +598,7 @@ Atualização do investira.sdk
 # 2.4.14
 
 -   [dao] Correção do teste do parametro das colunas.
+
+# 2.4.15
+
+-   [dao] Correção do teste do parametro das colunas.
