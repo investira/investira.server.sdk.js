@@ -602,3 +602,8 @@ Atualização do investira.sdk
 # 2.4.15
 
 -   [dao] Correção do teste do parametro das colunas.
+
+# 2.4.16
+
+-   [dao] Substituição do atributo pLimit por pClauses
+-   [sqls] Teste de deadlocks para todos os comandos
