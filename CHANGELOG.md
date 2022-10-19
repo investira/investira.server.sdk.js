@@ -607,3 +607,8 @@ Atualização do investira.sdk
 
 -   [dao] Substituição do atributo pLimit por pClauses
 -   [sqls] Teste de deadlocks para todos os comandos
+
+# 2.4.17
+
+-   [@mysql/xdevapi] atualizado 8.0.23 -> 8.0.31
+-   [winston] atualizado 3.3.3 -> 3.8.2
