@@ -27,6 +27,7 @@ module.exports.sse = require('./lib/middlewares/sse');
 
 module.exports.sqsService = require('./lib/aws/sqsService');
 module.exports.snsService = require('./lib/aws/snsService');
+module.exports.s3Service = require('./lib/aws/s3Service');
 
 module.exports.log = require('./lib/log');
 

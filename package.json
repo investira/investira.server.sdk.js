@@ -1,17 +1,17 @@
 {
     "name": "investira.server.sdk",
-    "version": "2.4.17-beta.3",
+    "version": "2.4.18",
     "author": "Investira",
     "description": "Investira server SDK",
     "main": "index.js",
     "types": "./lib/globals.d.ts",
     "type": "commonjs",
     "registry": true,
-    "raw": "investira.server.sdk@2.4.17-beta.3",
+    "raw": "investira.server.sdk@2.4.18",
     "escapedName": "investira.server.sdk",
-    "rawSpec": "2.4.17-beta.3",
+    "rawSpec": "2.4.18",
     "saveSpec": null,
-    "fetchSpec": "2.4.17-beta.3",
+    "fetchSpec": "2.4.18",
     "homepage": "https://investira.com.br/",
     "engines": {
         "node": ">=11.11.0 <=14.17.5",
@@ -32,7 +32,7 @@
     },
     "scripts": {
         "start": "nodemon ./lib/tests",
-        "_test": "nodemon ./_tests/test"
+        "_test": "nodemon ./_tests/tests3"
     },
     "dependencies": {
         "@aws-sdk/client-codestar-notifications": "3.150.0",

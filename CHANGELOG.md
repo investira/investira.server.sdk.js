@@ -612,3 +612,7 @@ Atualização do investira.sdk
 
 -   [@mysql/xdevapi] atualizado 8.0.23 -> 8.0.31
 -   [winston] atualizado 3.3.3 -> 3.8.2
+
+# 2.4.18
+
+-   [s3] S3 services
