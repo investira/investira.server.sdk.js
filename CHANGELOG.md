@@ -616,3 +616,7 @@ Atualização do investira.sdk
 # 2.4.18
 
 -   [s3] S3 services
+
+# 2.5.0
+
+-   [nodejs] Atualização para 18.12
