@@ -1,17 +1,17 @@
 {
     "name": "investira.server.sdk",
-    "version": "2.5.0",
+    "version": "2.5.0-beta.0",
     "author": "Investira",
     "description": "Investira server SDK",
     "main": "index.js",
     "types": "./lib/globals.d.ts",
     "type": "commonjs",
     "registry": true,
-    "raw": "investira.server.sdk@2.5.0",
+    "raw": "investira.server.sdk@2.5.0-beta.0",
     "escapedName": "investira.server.sdk",
-    "rawSpec": "2.5.0",
+    "rawSpec": "2.5.0-beta.0",
     "saveSpec": null,
-    "fetchSpec": "2.5.0",
+    "fetchSpec": "2.5.0-beta.0",
     "homepage": "https://investira.com.br/",
     "engines": {
         "node": ">=11.11.0 <=18.12.0",
@@ -32,16 +32,16 @@
     },
     "scripts": {
         "start": "nodemon ./lib/tests",
-        "_test": "nodemon ./_tests/tests3"
+        "_test": "nodemon ./_tests/testConnection.js"
     },
     "dependencies": {
         "@aws-sdk/client-codestar-notifications": "3.150.0",
-        "@mysql/xdevapi": "8.0.31",
         "@types/node": "11.9.4",
         "aws-sdk": "^2.1235.0",
         "bcrypt": "^5.1.0",
         "ftp": "0.3.10",
         "investira.sdk": "^2.2.15",
+        "mysql2": "^3.0.0-rc.1",
         "nodemailer": "^6.8.0",
         "on-finished": "2.3.0",
         "pdf-parser": "1.0.5",
