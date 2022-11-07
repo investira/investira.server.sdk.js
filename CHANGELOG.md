@@ -619,4 +619,8 @@ Atualização do investira.sdk
 
 # 2.5.0
 
--   [nodejs] Atualização para 18.12
+-   [nodejs] Atualização para node 18.12
+
+# 2.5.1
+
+-   [mysql] Substituição da lib mysqlxdev por mysql2
