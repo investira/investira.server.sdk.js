@@ -640,3 +640,7 @@ Atualização do investira.sdk
 # 2.5.5
 
 -   [dao] Correção do read 'count(\*)'
+
+# 2.5.6
+
+-   [dao] Correção do read 'count(\*)'
