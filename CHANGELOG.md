@@ -624,3 +624,7 @@ Atualização do investira.sdk
 # 2.5.1
 
 -   [mysql] Substituição da lib mysqlxdev por mysql2
+
+# 2.5.2
+
+-   [sqls] Teste de deadlock
