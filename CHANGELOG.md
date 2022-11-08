@@ -628,3 +628,15 @@ Atualização do investira.sdk
 # 2.5.2
 
 -   [sqls] Teste de deadlock
+
+# 2.5.3
+
+-   [sqls] Correção do read 'count(\*)'
+
+# 2.5.4
+
+-   [requestContext] Retirada do Schema
+
+# 2.5.5
+
+-   [dao] Correção do read 'count(\*)'
