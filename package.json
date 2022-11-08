@@ -32,7 +32,7 @@
     },
     "scripts": {
         "start": "nodemon ./lib/tests",
-        "_test": "nodemon ./_tests/test"
+        "_test": "nodemon ./_tests/testConnection"
     },
     "dependencies": {
         "@aws-sdk/client-codestar-notifications": "3.150.0",
