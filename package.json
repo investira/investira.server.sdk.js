@@ -1,17 +1,17 @@
 {
     "name": "investira.server.sdk",
-    "version": "2.5.6",
+    "version": "2.5.8",
     "author": "Investira",
     "description": "Investira server SDK",
     "main": "index.js",
     "types": "./lib/globals.d.ts",
     "type": "commonjs",
     "registry": true,
-    "raw": "investira.server.sdk@2.5.6",
+    "raw": "investira.server.sdk@2.5.8",
     "escapedName": "investira.server.sdk",
-    "rawSpec": "2.5.6",
+    "rawSpec": "2.5.8",
     "saveSpec": null,
-    "fetchSpec": "2.5.6",
+    "fetchSpec": "2.5.8",
     "homepage": "https://investira.com.br/",
     "engines": {
         "node": ">=11.11.0 <=18.12.0",
@@ -34,7 +34,8 @@
         "start": "nodemon ./lib/tests",
         "_test": "nodemon ./_tests/testConnection.js",
         "_test2": "nodemon ./_tests/testDeadlock.js",
-        "_test3": "nodemon ./_tests/testDeadlock3.js"
+        "_test3": "nodemon ./_tests/testDeadlock3.js",
+        "_test4": "nodemon ./_tests/testSelectNull.js"
     },
     "dependencies": {
         "@aws-sdk/client-codestar-notifications": "3.150.0",

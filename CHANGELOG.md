@@ -644,3 +644,11 @@ Atualização do investira.sdk
 # 2.5.6
 
 -   [dao] Correção do read 'count(\*)'
+
+# 2.5.7
+
+-   [sql] Alteração de forma de tratar Where com coluna de valor NULL
+
+# 2.5.8
+
+-   [sql] Trabamento do Resolve do sqlExecute
