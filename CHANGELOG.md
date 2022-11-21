@@ -652,3 +652,7 @@ Atualização do investira.sdk
 # 2.5.8
 
 -   [sql] Trabamento do Resolve do sqlExecute
+
+# 2.5.9
+
+-   [mySqlServer] Configuração para retornar colunas DECIMAL como número
