@@ -656,3 +656,7 @@ Atualização do investira.sdk
 # 2.5.9
 
 -   [mySqlServer] Configuração para retornar colunas DECIMAL como número
+
+# 2.5.10
+
+-   Alteração da versão do Node
