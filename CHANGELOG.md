@@ -660,3 +660,7 @@ Atualização do investira.sdk
 # 2.5.10
 
 -   Alteração da versão do Node
+
+# 2.5.11
+
+-   [sql] Closeconnection com release
