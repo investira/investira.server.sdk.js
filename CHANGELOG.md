@@ -664,3 +664,7 @@ Atualização do investira.sdk
 # 2.5.11
 
 -   [sql] Closeconnection com release
+
+# 2.5.12
+
+-   [crud] Inclusão de Clauses no readOne
