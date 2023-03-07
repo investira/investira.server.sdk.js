@@ -668,3 +668,11 @@ Atualização do investira.sdk
 # 2.5.12
 
 -   [crud] Inclusão de Clauses no readOne
+
+# 2.5.13
+
+-   [mysql2] Atualização de dependência
+
+# 2.5.14
+
+-   Atualização de dependências
