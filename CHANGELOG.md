@@ -676,3 +676,8 @@ Atualização do investira.sdk
 # 2.5.14
 
 -   Atualização de dependências
+
+# 2.5.16
+
+-   [crypts] Liblioteca para cyptografia 256
+-   [sqls] Novo tipo de colua 'encrypted'
