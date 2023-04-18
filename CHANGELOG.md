@@ -681,3 +681,12 @@ Atualização do investira.sdk
 
 -   [crypts] Liblioteca para cyptografia 256
 -   [sqls] Novo tipo de colua 'encrypted'
+
+# 2.5.17
+
+-   [dao] Correção do merge e modify
+-   [dao] Novo atributo returnRowsCount no modify para retornar a quantidade de linhas encontrada e alteradas
+
+# 2.5.18
+
+-   [dao] Otimização do modify modify
