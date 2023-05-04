@@ -690,3 +690,7 @@ Atualização do investira.sdk
 # 2.5.18
 
 -   [dao] Otimização do modify modify
+
+# 2.5.20
+
+-   [files] Função pvReadFileXML força Conversão para objeto, pois o xml2js retorna um 'objeto'não de derivado de 'objects'
