@@ -694,3 +694,7 @@ Atualização do investira.sdk
 # 2.5.20
 
 -   [files] Função pvReadFileXML força Conversão para objeto, pois o xml2js retorna um 'objeto'não de derivado de 'objects'
+
+# 2.5.21
+
+-   Atualização de dependências
