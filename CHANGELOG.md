@@ -702,3 +702,11 @@ Atualização do investira.sdk
 # 2.5.22
 
 -   Atualização de dependências
+
+# 2.5.23
+
+-   [sql] Força que limit seja numérico
+
+# 2.5.24
+
+-   Atualização de dependências
