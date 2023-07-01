@@ -1,0 +1,9 @@
+tests
+_tests
+node_modules
+.DS_Store
+._*
+.vscode
+logs
+*.log
+
