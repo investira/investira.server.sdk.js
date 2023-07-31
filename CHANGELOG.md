@@ -718,3 +718,11 @@ Atualização do investira.sdk
 # 2.5.26
 
 -   Atualização de dependências
+
+# 2.5.27
+
+-   Atualização de dependências
+
+# 2.5.28
+
+-   Atualização de dependências
