@@ -32,7 +32,7 @@
     },
     "scripts": {
         "start": "nodemon ./lib/tests",
-        "_test": "nodemon ./_tests/testSQL.js",
+        "_test": "nodemon ./_tests/test.js",
         "_test1": "nodemon ./_tests/testConnection.js",
         "_test2": "nodemon ./_tests/testDeadlock.js",
         "_test3": "nodemon ./_tests/testDeadlock3.js",
