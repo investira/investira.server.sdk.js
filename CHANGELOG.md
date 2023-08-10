@@ -726,3 +726,9 @@ Atualização do investira.sdk
 # 2.5.28
 
 -   Atualização de dependências
+
+# 2.6.0
+
+-   Atualização de dependências
+
+-   [sql] Novo tipo de coluna 'array'
