@@ -735,3 +735,7 @@ Atualização do investira.sdk
 # 2.6.1
 
 -   Atualização de dependências
+
+# 2.6.2
+
+-   [files] Tratamento de erro no pvReadFileTXT
