@@ -739,3 +739,7 @@ Atualização do investira.sdk
 # 2.6.2
 
 -   [files] Tratamento de erro no pvReadFileTXT
+
+# 2.6.3
+
+-   [s3Service] inclusao S3 da função streamFile e readFile
