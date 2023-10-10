@@ -743,3 +743,7 @@ Atualização do investira.sdk
 # 2.6.3
 
 -   [s3Service] inclusao S3 da função streamFile e readFile
+
+# 2.6.4
+
+-   Atualização de dependências
