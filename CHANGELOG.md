@@ -755,3 +755,7 @@ Atualização do investira.sdk
 # 2.6.6
 
 -   Atualização de dependências
+
+# 2.6.7
+
+-   Atualização de dependências
