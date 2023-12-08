@@ -759,3 +759,7 @@ Atualização do investira.sdk
 # 2.6.7
 
 -   Atualização de dependências
+
+# 2.6.8
+
+-   [httpCors] Inclusão do atributo <code>Access-Control-Expose-Headers:Content-Disposition</code>
