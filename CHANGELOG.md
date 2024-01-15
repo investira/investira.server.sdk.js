@@ -763,3 +763,7 @@ Atualização do investira.sdk
 # 2.6.8
 
 -   [httpCors] Inclusão do atributo <code>Access-Control-Expose-Headers:Content-Disposition</code>
+
+# 2.6.9
+
+-   [files] <code>readFile</code> - Correção na leitura de xls
