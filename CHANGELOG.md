@@ -767,3 +767,15 @@ Atualização do investira.sdk
 # 2.6.9
 
 -   [files] <code>readFile</code> - Correção na leitura de xls
+
+# 2.6.10
+
+-   [dao] Correção do <code>modifyOne</code>
+
+# 2.6.11
+
+-   [dao] Correção do <code>modifyOne</code>
+
+# 2.6.12
+
+-   Atualização de dependências
