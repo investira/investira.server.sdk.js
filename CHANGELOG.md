@@ -779,3 +779,8 @@ Atualização do investira.sdk
 # 2.6.12
 
 -   Atualização de dependências
+
+# 2.6.13
+
+-   [dao] Correção para resetar variável de ambiente após o uso
+-   [sql] Correção para resetar variável de ambiente após o uso
