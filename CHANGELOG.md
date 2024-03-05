@@ -784,3 +784,23 @@ Atualização do investira.sdk
 
 -   [dao] Correção para resetar variável de ambiente após o uso
 -   [sql] Correção para resetar variável de ambiente após o uso
+
+# 2.6.14
+
+-   Atualização de dependências
+
+# 2.6.15
+
+-   [files] downloadHttp POST com body json
+
+# 2.6.16
+
+-   [files] downloadHttp correção do content-type
+
+# 2.6.17
+
+-   [sqls] ExecuteSql - Tratamento do erro para incluir mais informação
+
+# 2.6.18
+
+-   [sqls] ConvertValueExecuteSql - Correção do null como string('null')
