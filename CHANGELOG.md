@@ -804,3 +804,7 @@ Atualização do investira.sdk
 # 2.6.18
 
 -   [sqls] ConvertValueExecuteSql - Correção do null como string('null')
+
+# 2.6.19
+
+-   [mySqlServer] Inclusão do atributo <code>infileStreamFactory</code> para set utilizado nos LOAD DATA INFILE
