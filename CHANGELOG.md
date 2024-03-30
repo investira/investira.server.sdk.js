@@ -808,3 +808,15 @@ Atualização do investira.sdk
 # 2.6.19
 
 -   [mySqlServer] Inclusão do atributo <code>infileStreamFactory</code> para set utilizado nos LOAD DATA INFILE
+
+# 2.6.20
+
+-   [sql] Inclusão do condições complexas utilizando MATCH, IN de coluna, OR e AND.
+
+# 2.6.21
+
+-   [sql] Inclui colunas do match no order by e inclui coluna do racking no select
+
+# 2.6.22
+
+-   [sql] Tratamento de count(\*) com fulltext search
