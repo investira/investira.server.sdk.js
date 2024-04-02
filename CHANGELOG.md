@@ -820,3 +820,7 @@ Atualização do investira.sdk
 # 2.6.22
 
 -   [sql] Tratamento de count(\*) com fulltext search
+
+# 2.7.0
+
+-   Atualização de dependências
