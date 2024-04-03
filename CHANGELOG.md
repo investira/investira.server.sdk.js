@@ -824,3 +824,11 @@ Atualização do investira.sdk
 # 2.7.0
 
 -   Atualização de dependências
+
+# 2.7.1
+
+-   Atualização de dependências
+
+# 2.7.2
+
+-   [sqls]]
