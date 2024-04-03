@@ -824,3 +824,15 @@ Atualização do investira.sdk
 # 2.7.0
 
 -   Atualização de dependências
+
+# 2.7.1
+
+-   [dao] Correção de cancelamento da query
+
+# 2.7.2
+
+-   [requestContext] com await no onfinish
+
+# 2.7.3
+
+-   [authorization] Tratamento do cancelamento
