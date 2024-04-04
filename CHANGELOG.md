@@ -836,3 +836,16 @@ Atualização do investira.sdk
 # 2.7.3
 
 -   [authorization] Tratamento do cancelamento
+
+# 2.7.4
+
+-   [dao] Teste de abort
+-   [mySqlServer] Teste de abort e destroy
+-   [endpointResponse] Teste de abort
+-   [requestContext] Teste de abort
+-   [sqls] Teste de abort e destroy
+-   [sqlsxdev] Teste de abort
+
+# 2.7.5
+
+-   [requestContext] Fecha conexão no abort
