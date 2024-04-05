@@ -849,3 +849,7 @@ Atualização do investira.sdk
 # 2.7.5
 
 -   [requestContext] Fecha conexão no abort
+
+# 2.7.6
+
+-   [sqls] Retirada de caracteres inválidos
