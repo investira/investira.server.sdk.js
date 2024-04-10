@@ -853,3 +853,15 @@ Atualização do investira.sdk
 # 2.7.6
 
 -   [sqls] Retirada de caracteres inválidos
+
+# 2.7.10
+
+-   [sqls] Retirada de caracteres de controle do final da string
+
+# 2.7.11
+
+-   [dao] Correção do SELECT_COUNT
+
+# 2.7.14
+
+-   [sqls] Tratamento de match sem valor
