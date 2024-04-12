@@ -865,3 +865,7 @@ Atualização do investira.sdk
 # 2.7.14
 
 -   [sqls] Tratamento de match sem valor
+
+# 2.7.16
+
+-   [requestContext] Close connection
