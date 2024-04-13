@@ -869,3 +869,7 @@ Atualização do investira.sdk
 # 2.7.16
 
 -   [requestContext] Close connection
+
+# 2.7.17
+
+-   [sqls] Alteração do tratamento de operadores binários
