@@ -873,3 +873,11 @@ Atualização do investira.sdk
 # 2.7.17
 
 -   [sqls] Alteração do tratamento de operadores binários
+
+# 2.7.18
+
+-   Atualização de dependências
+
+# 2.7.19
+
+-   Atualização de dependências
