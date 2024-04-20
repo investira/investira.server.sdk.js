@@ -881,3 +881,7 @@ Atualização do investira.sdk
 # 2.7.19
 
 -   Atualização de dependências
+
+# 2.7.20
+
+-   Atualização de dependências
