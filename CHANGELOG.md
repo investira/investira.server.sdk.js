@@ -889,3 +889,11 @@ Atualização do investira.sdk
 # 2.7.21
 
 -   Atualização de dependências
+
+# 2.8.0
+
+-   [sql] Refector da query complex
+
+# 2.8.1
+
+-   [sql] pvToSQLWhereComplex correção
