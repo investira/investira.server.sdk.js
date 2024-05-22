@@ -897,3 +897,15 @@ Atualização do investira.sdk
 # 2.8.1
 
 -   [sql] pvToSQLWhereComplex correção
+
+# 2.8.2
+
+-   [requestConext] Try/Catch
+
+# 2.8.4
+
+-   [requestConext] Close connection no abort
+
+# 2.8.5
+
+-   [requestConext] Retirada de logs
