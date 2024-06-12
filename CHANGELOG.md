@@ -909,3 +909,11 @@ Atualização do investira.sdk
 # 2.8.5
 
 -   [requestConext] Retirada de logs
+
+# 2.8.8
+
+-   [sqls] Validação da string para Fulltext Search
+
+# 2.8.9
+
+-   [sqls] Correção quando 'IN' contém array vazio
