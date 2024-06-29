@@ -917,3 +917,15 @@ Atualização do investira.sdk
 # 2.8.9
 
 -   [sqls] Correção quando 'IN' contém array vazio
+
+# 2.8.10
+
+-   Atualização de dependências
+
+# 2.8.11
+
+-   Atualização de dependências
+
+# 2.8.12
+
+-   Atualização de dependências
