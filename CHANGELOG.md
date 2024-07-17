@@ -929,3 +929,7 @@ Atualização do investira.sdk
 # 2.8.12
 
 -   Atualização de dependências
+
+# 2.8.13
+
+-   Atualização de dependências
