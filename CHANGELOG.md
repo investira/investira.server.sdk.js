@@ -933,3 +933,11 @@ Atualização do investira.sdk
 # 2.8.13
 
 -   Atualização de dependências
+
+# 2.8.14
+
+-   Atualização de dependências
+
+# 2.8.15
+
+-   [sqls] Tratamento para coluna do tipo object
