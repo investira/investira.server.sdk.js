@@ -945,3 +945,7 @@ Atualização do investira.sdk
 # 2.8.16
 
 -   Atualização de dependências
+
+# 2.8.17
+
+-   [emailSender] bcc e cc
