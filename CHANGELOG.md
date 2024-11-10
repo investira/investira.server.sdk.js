@@ -957,3 +957,15 @@ Atualização do investira.sdk
 # 2.8.19
 
 -   Versão do Node
+
+# 2.8.20
+
+-   Atualização de dependências
+
+# 2.8.21
+
+-   Atualização de dependências
+
+# 2.8.22
+
+-   Atualização de dependências
