@@ -969,3 +969,7 @@ Atualização do investira.sdk
 # 2.8.22
 
 -   Atualização de dependências
+
+# 2.8.24
+
+-   [sqls] Tratamento de array dentro de json
