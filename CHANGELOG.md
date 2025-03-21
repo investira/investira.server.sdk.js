@@ -981,3 +981,7 @@ Atualização do investira.sdk
 # 2.8.26
 
 -   Atualização de dependências
+
+# 2.8.27
+
+-   [sqls] Permite retornar colunas com formulas quando nome da coluna não pertence ao dao
