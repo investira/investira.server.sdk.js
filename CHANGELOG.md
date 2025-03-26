@@ -985,3 +985,12 @@ Atualização do investira.sdk
 # 2.8.27
 
 -   [sqls] Permite retornar colunas com formulas quando nome da coluna não pertence ao dao
+
+# 2.8.28
+
+-   [sqls] Correção: Permite retornar colunas com formulas quando nome da coluna não pertence ao dao
+
+# 2.8.29
+
+-   [dao] Correção: Permite retornar colunas com formulas quando nome da coluna não pertence ao dao
+-   [sqls] Correção: Permite retornar colunas com formulas quando nome da coluna não pertence ao dao
