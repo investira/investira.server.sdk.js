@@ -994,3 +994,15 @@ Atualização do investira.sdk
 
 -   [dao] Correção: Permite retornar colunas com formulas quando nome da coluna não pertence ao dao
 -   [sqls] Correção: Permite retornar colunas com formulas quando nome da coluna não pertence ao dao
+
+# 2.8.30
+
+-   [sqls] Validação dos atributos do model para quando não for objeto
+
+# 2.8.31
+
+-   [dbserver] Log
+
+# 2.8.32
+
+-   [requestContext] Controle DDos alterado para subtrair ao final do request
