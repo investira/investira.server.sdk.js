@@ -1006,3 +1006,7 @@ Atualização do investira.sdk
 # 2.8.32
 
 -   [requestContext] Controle DDos alterado para subtrair ao final do request
+
+# 2.8.33
+
+-   Atualização de dependências
