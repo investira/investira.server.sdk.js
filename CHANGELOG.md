@@ -1010,3 +1010,7 @@ Atualização do investira.sdk
 # 2.8.33
 
 -   Atualização de dependências
+
+# 2.8.34
+
+-   [files] Nova função removeSpacesFromFile
