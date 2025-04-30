@@ -1014,3 +1014,7 @@ Atualização do investira.sdk
 # 2.8.34
 
 -   [files] Nova função removeSpacesFromFile
+
+# 2.8.35
+
+-   [sqls] Model com type 'tmp'
