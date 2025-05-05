@@ -1018,3 +1018,8 @@ Atualização do investira.sdk
 # 2.8.35
 
 -   [sqls] Model com type 'tmp'
+
+# 2.8.36
+
+-   [crypts] Inclusão de simplesUniqueHash
+-   [systems] Inclusão de localIPs
