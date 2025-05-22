@@ -1023,3 +1023,11 @@ Atualização do investira.sdk
 
 -   [crypts] Inclusão de simplesUniqueHash
 -   [systems] Inclusão de localIPs
+
+# 2.8.37
+
+-   [requestContext] Exibe segundos de execução
+
+# 2.8.38
+
+-   [mysql2] Update
