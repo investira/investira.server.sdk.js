@@ -1031,3 +1031,7 @@ Atualização do investira.sdk
 # 2.8.38
 
 -   [mysql2] Update
+
+# 2.8.39
+
+-   [sql] atributo com type:'object' salva sem stringfy
