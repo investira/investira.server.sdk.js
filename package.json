@@ -40,12 +40,12 @@
         "_test5": "nodemon ./_tests/testSelectConvertionJS.js"
     },
     "dependencies": {
-        "@aws-sdk/client-codestar-notifications": "^3.816.0",
+        "@aws-sdk/client-codestar-notifications": "^3.817.0",
         "@types/node": "^11.15.54",
         "aws-sdk": "^2.1692.0",
         "bcrypt": "^5.1.1",
         "ftp": "^0.3.10",
-        "investira.sdk": "^2.4.19",
+        "investira.sdk": "^2.4.20",
         "mysql2": "^3.14.1",
         "nodemailer": "^6.10.1",
         "on-finished": "2.3.0",
