@@ -1035,3 +1035,7 @@ Atualização do investira.sdk
 # 2.8.39
 
 -   [sql] atributo com type:'object' salva sem stringfy
+
+# 2.8.40
+
+-   [files] unzip com try/catch
