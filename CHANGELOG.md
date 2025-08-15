@@ -1039,3 +1039,7 @@ Atualização do investira.sdk
 # 2.8.40
 
 -   [files] unzip com try/catch
+
+# 2.8.41
+
+-   [sqls] addSortColumns
