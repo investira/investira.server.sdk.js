@@ -1043,3 +1043,7 @@ Atualização do investira.sdk
 # 2.8.41
 
 -   [sqls] addSortColumns
+
+# 2.8.42
+
+-   [files] XML {strict}
