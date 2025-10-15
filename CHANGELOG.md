@@ -1047,3 +1047,7 @@ Atualização do investira.sdk
 # 2.8.42
 
 -   [files] XML {strict}
+
+# 2.8.43
+
+-   [sqls] Match sem group by
