@@ -9,6 +9,6 @@
         "noImplicitReturns": true,
         "noFallthroughCasesInSwitch": true
     },
-    "include": ["./lib/**/*"],
+    "include": ["./lib/**/*", "_tests", "globals.d.ts"],
     "exclude": ["node_modules"]
 }
