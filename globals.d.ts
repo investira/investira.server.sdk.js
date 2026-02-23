@@ -1,69 +1,53 @@
-// import nock = require('nock');
+export {};
 
-// declare namespace parallelNock {
-//     export function release():void;
-// }
+declare global {
+    var gLog: {
+        /**
+         * Emergencia: nivel 0
+         */
+        emerg: (pMessage: any, pExtraInfo?: object) => void;
+        /**
+         * Erro: nivel 1
+         */
+        error: (pMessage: any, pExtraInfo?: object) => void;
+        /**
+         * Atencao: nivel 2
+         */
+        warn: (pMessage: any, pExtraInfo?: object) => void;
+        /**
+         * Nota: nivel 3
+         */
+        note: (pMessage: any, pExtraInfo?: object) => void;
+        /**
+         * Informacao: nivel 4
+         */
+        info: (pMessage: any, pExtraInfo?: object) => void;
+        /**
+         * Debug: nivel 5
+         */
+        debug: (pMessage: any, pExtraInfo?: object) => void;
+        /**
+         * Verbose: nivel 6
+         */
+        verbose: (pMessage: any, pExtraInfo?: object) => void;
+        /**
+         * Silly: nivel 7
+         */
+        silly: (pMessage: any, pExtraInfo?: object) => void;
+    };
 
-// declare function parallelNock (host: string, options?: any): any;
-// export = parallelNock;
-
-declare var gLog: {
-    /**
-     * Emergência: nivel 0
-     *
-     */
-    emerg: (pMessage: any, pExtraInfo?: object) => void;
-    /**
-     * Erro: nivel 1
-     *
-     */
-    error: (pMessage: any, pExtraInfo?: object) => void;
-    /**
-     * Atenção: nivel 2
-     *
-     */
-    warn: (pMessage: any, pExtraInfo?: object) => void;
-    /**
-     * nota: nivel 3
-     *
-     */
-    note: (pMessage: any, pExtraInfo?: object) => void;
-    /**
-     * Informação: nivel 4
-     *
-     */
-    info: (pMessage: any, pExtraInfo?: object) => void;
-    /**
-     * debug: nivel 5
-     *
-     */
-    debug: (pMessage: any, pExtraInfo?: object) => void;
-    /**
-     * verbose: nivel 6
-     *
-     */
-    verbose: (pMessage: any, pExtraInfo?: object) => void;
-    /**
-     * silly: nivel 7
-     *
-     */
-    silly: (pMessage: any, pExtraInfo?: object) => void;
-};
-
-declare var gRC: {
-    /**
-     * garva atributo no request context
-     *
-     */
-    set: (pKey: string, pValue: object) => void;
-    /**
-     * Lê atributo do request context
-     *
-     */
-    get: (pKey) => void;
-    /**
-     * Lê executionAsyncId atual
-     *
-     */
-    getId: () => void;
-};
+    var gRC: {
+        /**
+         * Grava atributo no request context
+         */
+        set: (pKey: string, pValue: object) => void;
+        /**
+         * Le atributo do request context
+         */
+        get: (pKey: string) => void;
+        /**
+         * Le executionAsyncId atual
+         */
+        getId: () => void;
+    };
+}
