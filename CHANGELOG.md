@@ -1051,3 +1051,28 @@ Atualização do investira.sdk
 # 2.8.43
 
 -   [sqls] Match sem group by
+
+# 2.8.45
+
+-   Atualização de dependências
+
+# 2.8.46
+
+-   Atualização de dependências
+
+# 2.8.49
+
+-   Atualização de dependências
+
+# 2.8.50
+
+-   Atualização de dependências
+
+# 2.8.51
+
+-   [requestContext] Flags de log e conexão
+-   [logs] Tratamento de flags de log
+
+# 2.8.52
+
+-   [logs] Correção 
