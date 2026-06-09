@@ -42,6 +42,43 @@ const log = require('investira.server.sdk').log;
 
 ```
 
+### emailSender
+
+```javascript
+const emailSender = require('investira.server.sdk').emailSender;
+
+const xEmailSender = new emailSender({
+    host: 'smtp.exemplo.com.br',
+    port: 587,
+    account: 'noreply@exemplo.com.br',
+    password: 'senha',
+    secure: false
+});
+
+xEmailSender
+    .send({
+        from: 'noreply@exemplo.com.br',
+        to: 'destinatario@exemplo.com.br',
+        replyTo: 'atendimento@exemplo.com.br',
+        subject: 'Assunto',
+        html: '<b>Olá</b>',
+        attachments: [
+            {
+                filename: 'boleto.pdf',
+                content: Buffer.from('arquivo')
+            },
+            {
+                filename: 'logo.png',
+                path: './logo.png',
+                cid: 'logo@exemplo'
+            }
+        ]
+    })
+    .then(rResult => {
+        console.log(rResult.messageId);
+    });
+```
+
 Query Conditions
 
 1. {field: value}

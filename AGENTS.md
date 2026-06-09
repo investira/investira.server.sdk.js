@@ -30,6 +30,9 @@ Estas regras devem ser consideradas ao sugerir ou alterar código no projeto.
 - Use `gLog` para registrar mensagens semmpre que disponível no projeto que for backend.
 - Procure simplificar o código sempre que possível, evitando fragmentação excessiva.
 - Constantes devem ser declaradas no início do arquivo devem ser sempre em letras maiúsculas.
+- Não crie 'alias' desnecessários para tentar ser mais permissivo. Mantenha a validação original.
+- Procure manter uma única fonte de verdade, não replicando variáveis em múltiplos lugares e nomes diferentes.
+- Só crie cópias dos parametros recebidos nas funções se for necessário modificar o parametro.
 
 ## 5. Formatação
 
