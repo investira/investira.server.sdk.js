@@ -42,6 +42,16 @@ const log = require('investira.server.sdk').log;
 
 ```
 
+## AWS SDK v3
+
+- Os wrappers `s3Service`, `snsService` e `sqsService` passaram a utilizar clientes modulares `@aws-sdk/*`.
+- A forma de uso pública foi preservada, mantendo a instanciação com `new` e os mesmos parâmetros de entrada já consumidos pelos projetos dependentes.
+- A linha adotada para os pacotes AWS nesta migração foi `3.967.0`, compatível com `Node 18`.
+- A metadata do pacote foi alinhada para `Node 18`, removendo a compatibilidade antiga com `Node 11` que já não refletia os requisitos da AWS SDK v3.
+- O arquivo interno `lib/aws/lambda.js` foi removido por não possuir referência externa identificada no código analisado.
+- O método `publish` de `sqsService` permanece exposto por compatibilidade de interface, porém rejeita explicitamente a operação como não suportada. Para envio de mensagens, utilize `snsService.publish(...)`.
+- A AWS SDK v3 na linha compatível com `Node 18` já sinaliza encerramento de suporte para essa runtime após janeiro de 2026, então a evolução futura do projeto deve considerar atualização para uma versão mais nova do Node.js.
+
 ### emailSender
 
 ```javascript
