@@ -22,7 +22,6 @@ const sqls = require('investira.server.sdk').sqls;
 const tokens = require('investira.server.sdk').tokens;
 const files = require('investira.server.sdk').files;
 
-const htmlRender = require('investira.server.sdk').htmlRender;
 const emailSender = require('investira.server.sdk').emailSender;
 
 const dao = require('investira.server.sdk').dao;

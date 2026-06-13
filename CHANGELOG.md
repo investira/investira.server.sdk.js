@@ -1,10 +1,13 @@
-# 2.9.0
+# 3.0.0
+
+- [major] Incremento de versão major para refletir a remoção da API pública `htmlRender` e da dependência `pug`, exigindo ajuste dos consumidores que ainda utilizavam esse helper.
 
 - [aws] Migração de `lib/aws/s3Service.js`, `lib/aws/snsService.js` e `lib/aws/sqsService.js` para a AWS SDK for JavaScript v3 com pacotes modulares `@aws-sdk/*`.
 - [aws] Preservação das assinaturas públicas dos wrappers AWS já consumidos externamente, mantendo a forma de instanciação com `new` e os parâmetros atuais.
 - [aws] Remoção de `lib/aws/lambda.js` e das dependências exclusivas de Lambda, EC2 e Route53 por ausência de referência externa identificada no código analisado.
 - [aws] Remoção de `@aws-sdk/client-codestar-notifications`, que estava declarada no pacote sem uso identificado no código do SDK.
 - [aws] Remoção da dependência `aws-sdk` v2 e atualização da metadata do pacote para refletir suporte em `Node 18`.
+- [helpers] Remoção do helper público `htmlRender` e da dependência `pug`.
 - [aws] Alinhamento dos pacotes AWS na versão `3.967.0`, compatível com `Node 18`.
 - [aws] O método `publish` de `sqsService` passou a rejeitar explicitamente a operação como não suportada; o envio de mensagens deve ocorrer via `snsService.publish(...)`.
 

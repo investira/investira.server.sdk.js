@@ -6,7 +6,6 @@ module.exports.systems = require('./lib/utils/systems');
 module.exports.logs = require('./lib/utils/logs');
 module.exports.crypts = require('./lib/utils/crypts');
 
-module.exports.htmlRender = require('./lib/helpers/htmlRender');
 module.exports.emailSender = require('./lib/helpers/emailSender');
 
 module.exports.dao = require('./lib/dbs/dao').dao;
