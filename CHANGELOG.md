@@ -1,3 +1,12 @@
+# 3.0.2
+
+- [files] Nova função pública `parseXML(pConteudo, pOptions)` para converter XML em memória para objeto JavaScript.
+- [files] `readFile(...)` para arquivos XML passou a reutilizar o parser interno compartilhado, preservando o comportamento atual e alinhando as opções `trim`, `explicitArray`, `stripPrefix`, `strict`, `normalizeTags`, `normalize`, `ignoreAttrs` e `explicitRoot`.
+
+# 3.0.1
+
+- [aws] Correção de tipagem nos métodos de upload do S3Service
+
 # 3.0.0
 
 - [major] Incremento de versão major para refletir a remoção da API pública `htmlRender` e da dependência `pug`, exigindo ajuste dos consumidores que ainda utilizavam esse helper.
