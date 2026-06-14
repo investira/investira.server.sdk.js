@@ -1,3 +1,7 @@
+# 3.0.3
+
+- [aws] Alteração da região padrão do S3 de `sa-east-1` para `us-east-1`
+
 # 3.0.2
 
 - [files] Nova função pública `parseXML(pConteudo, pOptions)` para converter XML em memória para objeto JavaScript.
