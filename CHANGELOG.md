@@ -1,3 +1,11 @@
+# 3.0.5
+
+- [httpCors] Merge de headers CORS
+
+# 3.0.4
+
+- [endpointResponse] Remoção de logs de erro não tratado
+
 # 3.0.3
 
 - [aws] Alteração da região padrão do S3 de `sa-east-1` para `us-east-1`
