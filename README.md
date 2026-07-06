@@ -69,6 +69,7 @@ xEmailSender
         from: 'noreply@exemplo.com.br',
         to: 'destinatario@exemplo.com.br',
         replyTo: 'atendimento@exemplo.com.br',
+        priority: 'high',
         subject: 'Assunto',
         html: '<b>Olá</b>',
         attachments: [

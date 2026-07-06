@@ -1,3 +1,7 @@
+# 3.0.6
+
+- [emailSender] Suporte ao campo `priority` com propagação para o Nodemailer.
+
 # 3.0.5
 
 - [httpCors] Merge de headers CORS
