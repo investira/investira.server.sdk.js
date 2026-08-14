@@ -7,6 +7,8 @@
         "noUnusedLocals": true,
         "noUnusedParameters": true,
         "noImplicitReturns": true,
+        "noImplicitAny": false,
+        "noImplicitThis": false,
         "noFallthroughCasesInSwitch": true
     },
     "include": ["./lib/**/*", "_tests", "globals.d.ts"],

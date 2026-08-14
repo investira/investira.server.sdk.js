@@ -1,3 +1,11 @@
+# 3.0.8
+
+- [investira.sdk] Atualização para versão 2.4.44
+
+# 3.0.7
+
+- [investira.sdk] Atualização para versão 2.4.43
+
 # 3.0.6
 
 - [emailSender] Suporte ao campo `priority` com propagação para o Nodemailer.
