@@ -1,3 +1,7 @@
+# 3.0.9
+
+- [investira.sdk] Atualização para versão 2.4.45
+
 # 3.0.8
 
 - [investira.sdk] Atualização para versão 2.4.44
