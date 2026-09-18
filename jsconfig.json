@@ -9,8 +9,14 @@
         "noImplicitReturns": true,
         "noImplicitAny": false,
         "noImplicitThis": false,
+        "strictNullChecks": false,
         "noFallthroughCasesInSwitch": true
     },
-    "include": ["./lib/**/*", "_tests", "globals.d.ts"],
-    "exclude": ["node_modules"]
+    "javascript": {
+        "suggest": {
+            "autoImports": false
+        }
+    },
+    "include": ["./src/**/*", "_tests", "globals.d.ts"],
+    "exclude": ["node_modules", "dist", "build", "coverage", ".next"]
 }
