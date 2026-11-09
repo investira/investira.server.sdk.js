@@ -1,3 +1,7 @@
+# 3.0.10
+
+- [aws] Correção da separação de bucket e chave no método `exists` do S3Service, preservando subpastas na chave do objeto.
+
 # 3.0.9
 
 - [investira.sdk] Atualização para versão 2.4.45
